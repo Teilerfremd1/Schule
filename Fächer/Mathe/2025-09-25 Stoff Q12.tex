@@ -1,0 +1,536 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{lmodern}
+\usepackage[onehalfspacing]{setspace}
+\usepackage[left=3.5cm,right=2.5cm,top=2.5cm,bottom=2cm]{geometry}
+\usepackage{graphicx}
+\usepackage{ragged2e}
+\usepackage{microtype}
+\usepackage{cleveref}
+\usepackage{parskip}
+\usepackage{tabularx}
+\usepackage{float}
+\usepackage{siunitx}
+\usepackage[all]{nowidow}
+\usepackage{array}
+\usepackage{caption}
+\usepackage{csquotes}
+\usepackage{upgreek}
+\usepackage{mleftright}
+\usepackage{biblatex}
+\usepackage{enumerate}
+\usepackage{esvect}
+
+
+%Neue Befehle
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\e}{\mathrm{e}}
+%\newcommand{\i}{\mathrm{i}}
+\newcommand{\qed}{\hfill $\blacksquare$}
+\crefname{section}{Kapitel}{Kapitel}
+\crefname{subsection}{Kapitel}{Kapitel}
+\crefname{subsubsection}{Kapitel}{Kapitel}
+\Crefname{section}{Kapitel}{Kapitel}
+\Crefname{subsection}{Kapitel}{Kapitel}
+\Crefname{subsubsection}{Kapitel}{Kapitel}
+\crefname{figure}{Abbildung}{Abbildungen}
+
+
+%Dokument
+\begin{document}
+
+\title{Script für das bayerische Abitur im Fach Mathematik (eA)}
+\author{Nico Schneider}
+\maketitle
+\thispagestyle{empty}
+\newpage
+
+\tableofcontents
+\thispagestyle{empty}
+
+\newpage
+
+\section{Stammfunktionen und weitere Ableitungsregeln}
+
+\subsection{Funktionsscharen}
+
+\subsubsection{Definition}
+Hat die Funktion $f:x\mapsto f(x)$ eine von $x$ unabhängige Variable $t$, so existiert zu jedem Wert des \emph{Parameters} $t$ eine Funktion $f_t:x\mapsto f_t(x)$. Die Menge aller Funktionen $f_t:x\mapsto f_t(x)$ wird als \emph{Funktionenschar} bezeichnet.
+
+\subsection{Stammfunktionen}
+
+\subsubsection{Definition}
+
+Sei $F:x\mapsto F(x)$ eine differenzierbare Funktion, so heißt die Funktion $F$ genau dann Stammfunktion von $f$, wenn für alle $x\in D_f$ gilt:
+\[ F'(x) = f(x)\]
+
+
+\subsubsection{Satz}
+Sei $f:x\mapsto f(x)$ eine in $\R$ definierte Funktion und $C \in \R$, so gilt zum Aufleiten der Funktion $f$:
+\begin{enumerate}
+\item $f(x) = x^n \ (n \in \N )\  \Rightarrow \  F(x)=\dfrac{1}{n+1}\cdot x^{n+1} +C$
+\item $f(x)=\cos(x)\ \Rightarrow \ F(x)=\sin(x) + C$
+\item $f(x)=\sin(x) \ \Rightarrow \ F(x)=-\cos(x) + C$
+\end{enumerate}
+
+\subsection{Ableitung von Sinus- und Kosinusfunktion}
+\subsubsection{Satz}
+Sei $f:x\mapsto \sin (x), x\in\R$, so gilt:
+\[ f'(x)=\cos(x), \ f''(x) = -\sin(x), \ f'''(x)=-\cos(x) \ \text{und} \ f^{4}(x)=\sin(x)\]
+
+\subsection{Produktregel}
+\subsubsection{Satz (Produktregel)}
+Sind die Funktionen $u(x)$ und $v(x)$ mit $x\in D$ differenzierbar, so gilt für die Funktion $f(x)=u(x)\cdot v(x)$:
+\[ f'(x)=u'(x)\cdot v(x) + u(x)\cdot v'(x) \]
+
+\subsubsection{Beweis}
+Gegeben sei die Funktion $f$ mit $f(x) = u(x) \cdot v(x)$. Die Ableitung von $f$ an einer Stelle $x$ ist dann durch den Grenzwert des Differenzenquotienten
+\[ \lim \limits_{h \rightarrow 0} \dfrac{u(x+h)\cdot v(x+h)-u(x)\cdot v(x)}{h} \]
+gegeben. Durch Addition und Subtraktion des Terms $\dfrac{u(x)\cdot v(x+h)}{h}$ erhalten wir
+\[ \lim \limits_{h \rightarrow 0} \dfrac{u(x+h)\cdot v(x+h)- u(x)\cdot v(x+h) + u(x)\cdot v(x+h) - u(x)\cdot v(x)}{h} \text{.} \]
+Durch geschicktes Umformen vereinfachen wir und kommen auf
+\[ f'(x)=u'(x)\cdot v(x) + u(x) \cdot v'(x) \text{.}\]
+\qed
+
+\subsection{Verkettung von Funktionen und Kettenregel}
+\subsubsection{Definition}
+Für zwei Funktionen $u$ und $v$ gibt es zwei mögliche Verkettungen:\\
+Die \emph{Verkettung u nach v}: $u \circ v:x \mapsto u(v(x))$.\\
+Die \emph{Verkettung v nach u}: $v \circ u:x \mapsto v(u(x))$.\\
+Das Verketten zweier Funktionen ist allgemein \emph{nicht} kommutativ! 
+
+\subsubsection{Satz (Kettenregel)}
+Sei $f =u \circ v$ und weiterhin $u$ und $v$ differenzierbar, so ist auch $f(x)= u(v(x))$ differenzierbar und es gilt
+\[ f'(x)=u'(v(x)) \cdot v'(x) \text{.}\]
+
+\newpage
+\section{Natürliche Exponentialfunktion}
+\subsection{Die natürliche Exponentialfunktion und ihre Ableitung}
+
+\subsubsection{Definition}
+Wir definieiren die Euler'sche Zahl $\e$ wiefolgt:
+\[ \e = \lim \limits_{n \rightarrow \infty}  \mleft( 1+\frac{1}{n} \mright) ^n = \sum\limits_{i=0}^{\infty} \dfrac{1}{i!}\]
+
+\subsubsection{Satz}
+Die Euler'sche Zahl $\e$ ist irrational: $\e\notin \Q$. 
+
+\subsubsection{Definition}
+Sei $f:x\mapsto \e^x$, so heißt $f$ \emph{natürliche Exponentialfunktion}.
+
+\subsection{Ableitungsregeln zur natürlichen Exponentialfunktion}
+
+\subsubsection{Satz}
+Sei $f:x\mapsto \e^x$ mit $x\in\R$, so gilt $f':x\mapsto \e^x$.
+
+\subsubsection{Bemerkung}
+\begin{enumerate}[(1)]
+\item Alle Funktionen $F_C : x \mapsto \e^x+C$ mit $C\in\R$ sind also Stammfunktionen von $f$.
+\item Die Ableitung einer Funktion $f_a :x \mapsto a \cdot \e^x$ ist nach der Produktregel also $f_a':x\mapsto a \cdot \e^x = f_a(x)$
+\end{enumerate}
+
+\subsubsection{Satz}
+Sei $v(x)$ eine differenzierbare Funktion und weiterhin $f(x)$ und $g(x)$ die verknüpften Funktionen $f(x)=\e^{v(x)} \ \text{bzw.} \ g(x)=\e^x \cdot v(x)$. So gilt:
+\begin{enumerate}[(i)]
+\item $f'(x)=\e^{v(x)}\cdot v(x)$ (Kettenregel)
+\item $g'(x)=\e^x\cdot(x)+\e^x\cdot v'(x)=\e^x \cdot \mleft( v(x)+v'(x) \mright)$
+\end{enumerate}
+
+\subsubsection{Bemerkung}
+Im Falle von (i) überträgt sich das Monotonieverhalten der Funktion $v(x)$ auf die Funktion $f(x)$. 
+
+\subsection{Grenzwerte von Verknüpfungen mit der natürlichen Exponentialfunktion}
+\subsubsection{Satz}
+Es gelten folgende Grenzwerte von Verknüpfungen mit der natürlichen Exponentialfunktion ($n \in \N$):
+\begin{enumerate}[(i)]
+\item $\lim \limits_{x \rightarrow - \infty} (x^n\cdot e^x) = 0$
+\item $\lim \limits_{x \rightarrow + \infty} \dfrac{x^n}{e^x} = \lim \limits_{x \rightarrow - \infty} (x^n\cdot e^{-x}) = 0$
+\item $\lim \limits_{x \rightarrow + \infty} (e^x-x^n)=+ \infty$
+\end{enumerate}
+
+\subsubsection{Bemerkung}
+\begin{enumerate}[(1)]
+\item Anschaulich bedeutet das also, dass $\e^x$ für $x \rightarrow \infty$ \glqq schneller\grqq \ wächst als jede Potenz $x^n$.
+\item Da das Grenzwertverhalten einer ganzrationalen Funktion $p: x \mapsto a_nx^n + a_{n-1}x^{n-1}+...+a_1x+a_0$ nur von Summanden mit der höchsten Potenz $a_nx^n$ bestimmt wird, gelten die Grenzwerte anstelle von einer Potenz $x^n$ auch für Polynome $p(x)$.
+\end{enumerate}
+
+\subsection{Natürlicher Logarithmus und Exponentialgleichungen}
+\subsubsection{Definition}
+Die Lösung der \emph{Exponentialgleichung} $\e^x = b$  mit $b \in \R ^+$ und $x \in \R$ bezeichnet man als \emph{natürlichen Logarithmus von b}. Man schreibt:
+\[ x = \ln (b) \Leftrightarrow  \e^x = b \]
+
+\subsubsection{Bemerkung}
+\begin{enumerate}[(1)]
+\item Aus der Definition des natürlichen Logarithmus folgt $\e^{\ln(x)}=x$ für $x>0$ und $\ln(\e^x)=x$.
+\item Weiterhin gilt $\ln(1)=0$ und $\ln(e)=1$.
+\item Für das Rechnen mit dem natürlichen Logarithmus gilt $\ln(b^x)=x\cdot \ln(b)$.
+\end{enumerate}
+
+\subsection{Modellieren von Wachstums- und Abklingvorgängen}
+\subsubsection{Definition}
+Wir nennen die Funktion $f:t\mapsto b \cdot a^t (a\in\R^+ \textbackslash \{ 1 \} )$ mit Wachstumsfaktor $a$ und Anfangsbestand $b=f(0)$ \emph{Wachstumsfunktion}. Eine alternative Darstellung ist:
+\[ f:t\mapsto b \cdot \e^{\ln(a)\cdot t}  \] 
+
+\subsubsection{Satz}
+Aus der Wachstumsfunktion $f:t\mapsto \e^{k\cdot t}$ ergibt sich unmittelbar die Halbwerts- bzw. Verdopplungszeit.
+\begin{enumerate}[(i)]
+\item $k>0: T_V=\frac{\ln(2)}{k}$
+\item $k<0: T_H=-\frac{\ln(2)}{k}$
+\end{enumerate}
+
+\newpage
+\section{Zufallsgrößen und Binomialverteilung}
+\subsection{Zufallsgrößen und deren Wahrscheinlichkeitsverteilung}
+\subsubsection{Definition}
+Eine Funktion $X$, die jedem Ergebnis $\omega \in \Omega$ eines Zufallsexperiments eine reelle Zahl $X(\omega)$ zuordnet, heißt \emph{Zufallsgröße} oder \emph{Zufallsvariable} auf $\Omega$. Kurz: $X:\omega \mapsto X(\omega)$ mit $\omega \in \Omega$ und $X(\omega) \in \R$.
+
+\subsubsection{Definition}
+Die Funktion $W$, die jedem Wert $x_i$ einer Zufallsgröße $X$ die Wahrscheinlichkeit $P(X=x_i)$ zuordnet, heißt \emph{Wahrscheinlichkeitsfunktion der Zufallsgröße $X$} oder \emph{Wahrscheinlichkeitsverteilung der Zufallsgröße $X$} oder knapp Verteilung von $X$. Kurz: $W:x_i \mapsto P(X=x_i)$.
+
+\subsubsection{Definition}
+Die Funktion $F$, die bei gegebener Zufallsgröße $X$ jeder reellen Zahl $x$ die Wahrscheinlichkeit $P(X\leq x)$ zuordnet, heißt \emph{kumulative Verteilungsfunktion der Zufallsgröße $X$}. Kurz: $F:x\mapsto P(X\leq x)$ mit $x \in \R$ und $P(X\leq x) \in [0; 1]$.
+
+\subsection{Erwartungswert und Varianz einer Zufallsgröße}
+\subsubsection{Definition}
+\[ E(x) = \mu = \sum\limits_{i=1}^{n} x_i \cdot P(X=x_i) \]
+\underline{In Worten:} Ist $X$ eine Zufallsgröße, deren mögliche Werte $x_1, x_2, ..., x_n$ sind, so heißt die reelle Zahl $E(X)=x_1 \cdot P(X=x_1) + x_2 \cdot P(X=x_2) + ... + x_n\cdot P(X=x_n)$ \emph{Erwartungswert der Zufallsgröße X}. Der Erwartungswert ist immer der mittlere Wert der Zufallsgröße pro Versuch auf lange Sicht. 
+
+\subsubsection{Bemerkung}
+Ein Spiel heißt \emph{fair}, wenn der Erwartungswert des Gewinns für jeden Spieler 0 ist.
+
+
+\subsubsection{Definition}
+Ist $X$ eine Zufallsgröße, deren mögliche Werte $x_1, x_2,..., x_n$ sind und die den Erwartungswert $E(X)=\mu$ hat, so heißt die reelle Zahl $Var(X)=(x_1-\mu)^2\cdot P(X=x_1)+(x_2-\mu)^2 \cdot P(X=x_2)+ ... + (x_n-\mu )^2 \cdot P(X=x_n)$ \emph{Varianz der Zufallsgröße $X$}.
+
+\subsubsection{Definition}
+Die reelle Zahl $\sqrt{Var(X)}$ heißt \emph{Standardabweichung der Zufallsgröße $X$}.
+
+\subsubsection{Bemerkung}
+Statt $\sqrt{Var(X)}$ schreibt man auch $\sigma$ und folglich gilt für die Varianz $Var(X)=\sigma^2$.
+
+\subsection{Ziehen aus einer Urne mit Beachtung der Reihenfolge}
+\subsubsection{Satz}
+Unter der Beachtung der Reihenfolge unterscheidet man grundlegend zwei Zufallsexperimente. Für das Ziehen aus einer Urne mit $n$ unterscheidbaren Kugeln und $k$-maligem Ziehen gilt...
+\begin{enumerate}[(i)]
+\item ...mit Zurücklegen: Es sind $n^k$ Ergebnisse möglich. 
+\item ...ohne Zurücklegen: Es sind $n\cdot (n-1)\cdot ... \cdot (n-k+1)$ verschiedene Ergebnisse möglich. 
+\end{enumerate}
+
+\subsubsection{Bemerkung}
+Jede Anordnung einer Reihenfolge wird als \emph{Permutation} bezeichnet.
+
+\subsection{Ziehen aus einer Urne ohne Beachtung der Reihenfolge}
+\subsubsection{Satz}
+Zieht man ohne Zurücklegen und ohne Beachtung der Reihenfolge aus $n$ unterschiedlichen Kugeln $k$-mal, so gibt es \[ \dfrac{n\cdot (n-1)\cdot (n-2) \cdot ... \cdot (n-k+1)}{k!} \] mögliche Ergebnisse.
+
+\subsubsection{Definition (Binomialkoeffizient)}
+Für $k, n \in \N$ und $k\leq n$ heißt $ \dbinom{n}{k} = \dfrac{n!}{k! \cdot (n-k)!}$ \emph{Binomialkoeffizient}.
+
+\subsubsection{Bemerkung}
+\begin{enumerate}[(1)]
+\item Es ist bekannt, dass $0!=1$ gilt.
+\item Wir erkennen die Symmetrie $\binom{n}{n-k}=\binom{n}{k}$ des Binomialkoeffizienten. Der Beweis kann durch Umformen nachvollzogen werden und ist dem Leser überlassen.
+\end{enumerate}
+
+\subsubsection{Satz}
+Aus einer Urne mit $N$ Kugeln, von denen $S$ schwarz sind, werden $n$ Kugeln ohne zurücklegen und ohne Beachtung der Reihenfolge, z.B. mit einem Griff, gezogen. Die Zufallsgröße $X$ gibt die Anzahl $s$ der gezogenen schwarzen Kugeln an.  Dann gilt: 
+\[ 
+P(X=s)=\dfrac{\dbinom{S}{s}\cdot \dbinom{N-S}{n-s}}{\dbinom{N}{n}}
+\]
+
+
+\subsection{Bernoulli-Experimente mit Bernoulli-Ketten}
+\subsubsection{Definition}
+Ein Zufallsexperiment mit genau zwei Ergebnissen heißt \emph{Bernoulli-Experiment}. Die Wahrscheinlichkeit für einen Treffer wird mit $p$, die für eine Niete mit $q$ bezeichnet, wobei $q=1-p$ ist. Ein Zufallsexperiment, das aus $n$ unabhängigen Durchführungen desselben Bernoulli-Experiments besteht, heißt \emph{Bernoulli-Kette} der Länge $n$ mit dem Parameter $p$. 
+
+\subsection{Binomialverteilung}
+\subsubsection{Satz (Formel von Bernoulli)}
+Gegeben ist eine Bernoulli-Kette der Länge $n$, $n \in \N \textbackslash \{ 0 \}$ mit Trefferwahrscheinlichkeit $p$. Die Zufallsgröße $X$ gibt die Anzahl der Treffer an. Dann beträgt die \emph{Wahrscheinlichkeit für genau $k$ Treffer} mit $k \in \{ 0; 1; ...; n \}$: 
+\[ P(X=k)=\dbinom{n}{k}\cdot p^k \cdot (1-p)^{n-k} \]
+
+\subsubsection{Bemerkung}
+Die Schreibweisen
+\begin{enumerate}[(a)]
+\item $B(n;p)$,
+\item $ P(X=x)$ und
+\item $P_p^n(X=x)$
+\end{enumerate}
+sind äquivalent.
+
+
+\subsubsection{Definition}
+Eine Zufallsgröße $X$ heißt \emph{binomialverteilt} nach $B(n;p)$ oder $B(n;p)$-verteilt, wenn gilt
+\begin{enumerate}[(i)]
+\item $X$ kann die Werte $0;1;2;...;n$ mit $n \in \N \textbackslash \{ 0 \}$ annehmen und
+\item $P(X=k)=\dbinom{n}{k}\cdot p^k \cdot (1-p)^{n-k}$ mit $0\leq p \leq 1$.
+\end{enumerate}
+
+\subsubsection{Vorgehen beim Modellieren}
+\begin{itemize}
+\item Man prüft, ob das Zufallsexperiment als Bernoulli-Kette der Länge $n$ mit der Wahrscheinlichkeit $p$ für Treffer angesehen werden kann.
+\item Ist dies der Fall, führt man eine $B(n;p)$-verteilte Zufallsgröße $X$ ein.
+\item Man bestimmt die gesuchte Wahrscheinlichkeit mithilfe der Binomialverteilung.
+\end{itemize}
+
+\subsection{Erwartungswert und Varianz der Binomialverteilung}
+\subsubsection{Satz}
+Für die nach Kenngrößen einer nach $B(n;p)$-verteilten Zufallsgröße $X$ gilt
+\begin{enumerate}[(i)]
+\item für den Erwartungswert $\mu = n\cdot p$,
+\item für die Varianz $\sigma^2 = n\cdot p \cdot q$ mit $q=1-p$ und 
+\item für die Standardabweichung $\sigma = \sqrt{n \cdot p\cdot q}$.
+\end{enumerate}
+
+\subsection{Axiomatische Definition von Wahrscheinlichkeit}
+\subsubsection{Definition (Axiome von Kolmogorow)}
+Eine Funktion $P:A\mapsto P(A)$ mit $A \subset \Q$ und $P(A) \in \R $ heißt \emph{Wahrscheinlichkeitsverteilung} und $P(A)$ \emph{Wahrscheinlichkeit} von $A$, wenn $P$ folgende Bedingungen erfüllt sind:
+\begin{enumerate}[(i)]
+\item $P(A) \geq 0$
+\item $P(\Omega)=1$
+\item $A \cap B = \{ \} \Rightarrow P(A \cup B)= P(A) + P(B)$
+\end{enumerate}
+
+\newpage
+\section{Beurteilende Statistik}
+\subsection{Einseitiger Hypotesentest}
+\subsubsection{Grundwissen}
+Zu einem Sachverhalt werden zwei sich ausschließende Hypothesen betrachtet: die \emph{Nullhypothese} $H_0$ und die \emph{Gegenhypothese} $H_1$. Die Anzahl der Treffer einer \emph{Stichprobe} mit festgelegter Länge bildet die \emph{Testgröße}. Der Wertebereich der Testgröße wird in den \emph{kritischen Bereich} $K$ (\emph{Ablehnungsbereich}) und den \emph{nichtkritischen Bereich} $\overline{K}$ zerlegt. Liegt der durch die Stichprobe gewonnene Wert der Testgröße in $K$, dann wird $H_0$ verworfen, ansonsten wird $H_0$ nicht verworfen (\emph{Entscheidungsregel}).
+
+\subsubsection{Bemerkung}
+\begin{enumerate}[(1)]
+\item Es ist möglich, dass die Nullhypothese verworfen wird, obwohl sie in Wirklichkeit wahr ist.
+\item Ist $K$ links von $\overline{K}$, so spricht man von einem linksseitigen Hypothesentest. Andersherum, also wenn $K$ rechts von $\overline{K}$ liegt, spricht man von einem rechtsseitigen Hypothesentest.
+\end{enumerate}
+
+\subsubsection{Definition}
+Einen Hypothesentest mit einem kritischen Bereich $K$, der aus einem einzigen Intervall besteht, bezeichnet man als \emph{einseitigen Hypothesentest}.
+\par
+\begin{center}
+
+\begin{tabular}{ |c|c| }
+\hline
+Linksseitiger Hypothesentest & Rechtsseitiger Hypothesentest \\
+\hline
+$H_0:p=p_0$ (oder $p\geq p_0$) & $H_0:p=p_0$ (oder $p\leq p_0$) \\
+$H_1: p<p_0$ & $H_1: p>p_0$ \\
+\hline
+\end{tabular}
+\end{center}
+\subsubsection{Fehler erster Art}
+Die Nullhypothese $H_0$ wird abgelehnt ($Z \in K$), obwohl sie eigentlich wahr ist. Fehler erster Art werden mit $\alpha'$ bezeichnet. Für die Berechnung genügt es bei einseitigen Hypothesentests, mit der Wahrscheinlichkeit $p=p_0$ zu rechnen, da alle Werte bei einem linksseitigen Hypothesentest für $p>p_0$ (rechtsseitig: $p<p_0$) eine kleinere Wahrscheinlichkeit haben.
+\subsubsection{Fehler zweiter Art}
+Die Nullhypothese $H_0$ wird nicht abgelehnt ($Z \in \overline{K}$), obwohl eigentlich die Gegenhypothese $H_1$ zutrifft. Fehler zweiter Art werden mit $\beta'$ bezeichnet. Man kann $\beta'$ nur berechnen, wenn für die Testgröße $Z$ eine bestimmte Wahrscheinlichkeitsverteilung (und damit auch $p$) angenommen wird. 
+
+\subsubsection{Einflussnahmen auf $\alpha'$ und $\beta'$}
+Vergrößert man den \emph{Ablehnungsbereich}, wird $\beta'$ zwar kleiner, aber $\alpha'$ damit zwangsläufig größer und umgekehrt. 
+Durch die Vergrößerung des \emph{Stichprobenumfangs} kann man Fehler erster Art als auch Fehler zweiter Art verkleinern. 
+
+\subsection{Konstruktion eines einseitigen Signifikanztestes}
+\subsubsection{Definition}
+Ein Hypothesentest mit einem zuvor festgelegten \emph{Signifikanztest} $\alpha$ und einem Ablehnungsbereich $K$, der aus einem einzigen Intervall besteht, bezeichnet man als \emph{einseitigen Signifikanztest}.
+
+\subsubsection{Bemerkung}
+Meist wird für $\alpha $ der Wert $1 \%, 2 \%$ oder $5 \%$ angenommen.
+
+
+\subsubsection{Konstruktion eines einseitigen Signifikanztests}
+\begin{enumerate}[(1)]
+\item Festlegen der Testgröße $Z$ und des Stichprobenumfangs $n$.
+\item Mathematische Formulierung der Nullhypothese $H_0$ und der Gegenhypothese $H_1$.
+\item Festlegen des Signifikanzniveaus $\alpha$ gemäß der in der Anwendungssituation maximal tolerierten Wahrscheinlichkeit für den Fehler erster Art.
+\item Bestimmen der Entscheidungsregel, d.h. Konstruktion des Ablehnungsbereichs $K$.
+\end{enumerate}
+\begin{tabularx}{\textwidth}{ |X|X| }
+\hline
+\emph{Linksseitiger Test:} & \emph{Rechtsseitiger Test} \\
+Ablehnungsbereich $K=\{ 0; 1; ...; g \}$ & Ablehnungsbereich $K=\{ g; g+1; ...; n \}$ \\
+wobei $g$ die größte natürliche Zahl ist mit & wobei  $g$ die kleinste natürliche Zahl ist mit \\
+$\alpha'=P_{p_0}^n(Z\leq g)\leq \alpha$ & $\alpha'=P_{p_0}^n(Z\geq g)\leq \alpha$ \\
+\hline
+\end{tabularx}
+
+\subsubsection{Bemerkung}
+Beim rechtsseitigen Signifikanztest muss man beim Ermitteln von $g$ auf Folgendes achten: 
+\[ \alpha' \leq \alpha \Leftrightarrow P_{p_0}^n(Z\geq g) \leq \alpha \Leftrightarrow 1-P_{p_0}^n(Z\leq g - 1) \leq \alpha \Leftrightarrow P_{p_0}^n (Z\leq g - 1) \geq 1 - \alpha  \]
+Für Bestimmung von $g$ muss auf $g-1$ noch $1$ addiert werden. 
+
+
+\newpage
+\section{Quotientenregel und Funktionsuntersuchungen}
+\subsection{Die Quotientenregel bei gebrochen-rationalen Funktionen}
+\subsubsection{Satz (Quotientenregel)}
+Sind die Funktionen $u$ und $v$ differenzierbar, dann ist $f:x\mapsto \dfrac{u(x)}{v(x)}$ für alle $x$ mit $v(x) \neq 0$ differenzierbar und es gilt $f'(x)=\dfrac{u'(x)\cdot v(x)-u(x)\cdot v'(x)}{[ v(x) ]^2}$.
+
+\subsubsection{Satz}
+Sei $f:x\mapsto x^k, \ (k\in\Z^-)$, so ist $f(x)$ auf $\R\textbackslash \{ 0 \}$ differenzierbar mit
+\[ f'(x)= k\cdot x^{k-1} \text{.}\]
+
+\subsubsection{Aspekte bei der Untersuchung einer Funktion $f$ und ihren Graphen $G_f$}
+Beim Untersuchen einer Funktion $f:x\mapsto f(x)$ mit Definitionsmenge $D_f \subseteq \R$ gilt es, folgende Untersuchungen zu tätigen.
+\begin{enumerate}[(1)]
+\item Definitionsmenge $D_f$ von $f$
+\item Symmetrieverhalten von $G_f$ (Ansatz: $f(-x)$ einsetzen)
+\item Nullstellen von $f$ ($0=f(x)$ auflösen)
+\item Schnittpunkte von $G_f$ mit der y-Achse (Untersuchung nach $f(0)$)
+\item Verhalten von $f$ an den Rändern von $D_f$ (Grenzwerte betrachten)
+\item Asymptoten von $G_f$ (beachte vertikale und horizontale, z.B. über Grenzwerte)
+\item Extrempunkte von $G_f$ (Prüfen nach $f'(x)=0$ und $f''(x)\neq 0$)
+\item Monotonieverhalten von $f$ (1. Ableitung)
+\item Wendepunkte von $G_f$ ($f''(x)=0$ und $f'''(x)\neq 0$)
+\item Krümmungsverhalten von $G_f$ (Prüfen ob $f''(x)$ größer oder kleiner als 0 ist)
+\end{enumerate}
+
+
+\subsubsection{Satz (Regel von L'Hôpital)}
+Gegeben sei ein offenes Intervall $I$ mit einer Stelle $a\in I$. Seien $u$ und $v$ nun zwei Funktionen, die auf $I \textbackslash \{ a \}$ differenzierbar seien und außerdem gelte für alle $x \in I \textbackslash \{ a \}$ $v'(x)\neq 0$. Existiert nun der Grenzwert $\lim\limits_{x\rightarrow a} \frac{u'(x)}{v'(x)}$, so gilt:
+
+\[ \mleft[ \mleft( \lim\limits_{x \rightarrow a}u(x) = \lim\limits_{x \rightarrow a}v(x) \mright) \lor \mleft( \lim\limits_{x \rightarrow a}u(x) = \lim\limits_{x \rightarrow a}v(x) = \pm \infty \mright) \mright] \Rightarrow \lim\limits_{x \rightarrow a}\dfrac{u(x)}{v(x)} = \lim\limits_{x \rightarrow a}\dfrac{u'(x)}{v'(x)}\]
+
+$\lor$ heißt hierbei \glqq oder\grqq im mathematischen Sinne. 
+
+\newpage
+\section{Wurzelfunktion}
+\subsection{Die Umkehrfunktion}
+\subsubsection{Definition}
+Sei $f:x\mapsto f(x)$ mit Definitionsmenge $D_f$ und Wertemenge $W_f$. $f(x)$ heißt genau dann \emph{umkehrbar}, wenn für alle $y\in W_f$ genau ein $x\in D_f$ mit $y=f(x)$ existiert. Diese umgekehrte Zuordnung nennt man \emph{Umkehrfunktion} von $f$ oder kurz $f^{-1}$. 
+
+\subsubsection{Satz (Umkehrbarkeitskriterium}
+Gegeben sei eine Funktion $f:x \mapsto f(x)$ im Intervall $I$, so ist $f(x)$ stets umkehrbar, wenn für alle $x\in I$ die Bedingung $f'(x)>0$ oder $f'(x)<0$ erfüllt ist.
+
+\subsection{Potenzfunktionen mit rationalem Exponenten und ihre Ableitung}
+\subsubsection{Definition}
+Sei $f:x\mapsto a \cdot x^{\frac{p}{q}}=a\cdot \sqrt[q]{x^p}$ mit $a\in \R$, $p\in\Z$ und $q\in \N \textbackslash \{ 0 \}$, so heißt $f$ Potenzfunktion mit rationalem Exponenten. 
+
+\subsubsection{Satz (Ableitungsregel für Potenzfunktionen}
+\begin{enumerate}[(i)]
+\item $f:x\mapsto x^r \Rightarrow f':x\mapsto r\cdot x^{r-1}$ ($r \in \Q$)
+\item $f:x\mapsto x^r \Rightarrow F:x\mapsto \dfrac{1}{r+1}x^{r+1}$ ($r \in \Q \textbackslash \{ -1 \}$)
+\end{enumerate}
+
+\newpage
+\section{Natürliche Logarithmusfunktion}
+\subsection{Die natürliche Logarithmusfunktion und ihre Ableitung}
+\subsubsection{Definition}
+Sei $f:x\mapsto \ln(x)$ mit $D=\R^+$, so heißt $f$ natürliche Logarithmusfunktion.
+
+\subsubsection{Satz}
+Sei $f:x\mapsto \ln(x)$ mit $D_f=\R^+$, so gilt $f':x\mapsto \dfrac{1}{x}$ mit $D_{f'}=\R$.
+Weiterhin gilt: $f:x\mapsto \dfrac{1}{x} \Rightarrow F:x\mapsto \ln(|x|)+C$ ($D_f=D_F=\R \textbackslash \{ 0 \}, C\in/R$
+
+\subsubsection{Satz (Rechenregeln für den natürlichen Logarithmus)}
+Sei $b,c\in\R^+$ und $r\in\R$, so gilt
+\begin{enumerate}[(i)]
+\item $\ln(b\cdot c) = \ln(b) + \ln(c)$,
+\item $\ln(\frac{b}{c})=\ln(b)-\ln(c)$ und
+\item $\ln(b^r)=r\cdot \ln(b)$.
+\end{enumerate}
+
+\subsection{Ableitung und Grenzwerte von Verknüpfungen mit der ln-Funktion}
+\subsubsection{Satz}
+Sei $v$ differenzierbar und $v'(x)>0$, so gilt
+\[ f:x \mapsto \ln \mleft( v(x) \mright) \Rightarrow f':x\mapsto \dfrac{v'(x)}{v(x)} \text{.}\]
+
+
+\subsubsection{Satz}
+\[ \forall r\in \Q^+: \mleft[ \lim\limits_{x\rightarrow +\infty} \dfrac{\ln(x)}{x^r}=0 \land \lim\limits_{x\rightarrow 0}\mleft(x^r\cdot \ln(x) \mright)=0 \mright] \]
+$\forall$ heißt hierbei: \glqq Für alle\grqq.
+
+\section{Grundlagen der Koordinatengeometrie im Raum}
+\subsection{Vektoren}
+\subsubsection{Definition}
+Die Menge aller gleichlanger, zueinander paralleler und gleichgerichteter Pfeile nennt man Vektor. Jeder Pfeil ist ein Repräsentant dieses Vektors. Man bezeichnet sie mit $\vv{v}$.
+\par
+Im zweidimensionalen Koordinatensystem hat jeder Vektor $\vv{v}$ zwei Koordinaten $\vv{v}=\mleft( \begin{array}{c}
+x_1 \\
+x_2
+\end{array} \mright)$. Im Dreidimensionalen schreibt man $\vv{v}=\mleft( \begin{array}{c}
+x_1 \\
+x_2 \\
+x_3
+\end{array} \mright)$.
+
+\subsubsection{Satz}
+Zwischen zwei Punkten $A$ und $B$ konstruiert man den Vektor $\vv{AB}$ von $A$ nach $B$ wiefolgt:
+$\vv{AB}= \mleft( \begin{array}{c}
+b_1-a_1 \\
+b_2 - a_2 \\
+b_3 - a_3
+\end{array} \mright)$
+
+\subsubsection{Definition}
+Der Pfeil vom Koordinatenursprung $O$ zum Punkt $B$ heißt Repräsentant des Ortsvektors $B$. $\vv{OB}=\mleft(  \begin{array}{c}
+b_1 \\
+b_2
+\end{array}  \mright)$ bzw. $\vv{OB}=\mleft(  \begin{array}{c}
+b_1 \\
+b_2 \\
+b_3
+\end{array}  \mright)$
+
+\subsubsection{Definition}
+Die Länge eines Repräsentanten eines Vektors $\vv{v}$ nennt man Betrag des Vektors. 
+
+\subsubsection{Satz}
+Der Betrag eines Vektors $\vv{v}$ ist $|\vv{v}|= \sqrt{v_1^2+v_2^2}$ im Zweidimensionalen und $|\vv{v}|= \sqrt{v_1^2+v_2^2+v_3^2}$ im Dreidimensionalen.
+
+\subsection{Addition und Subtraktion von Vektoren}
+\subsubsection{Definition}
+Zwei Vektoren $\vv{a}$ und $\vv{b}$ werden wiefolgt addiert: \par
+$\vv{a} + \vv{b} = \mleft( \begin{array}{c} a_1 \\ a_2  \end{array} \mright) + \mleft( \begin{array}{c} b_1 \\ b_2  \end{array} \mright) = \mleft( \begin{array}{c} a_1+b_1 \\ a_2+b_2 \end{array} \mright) $ bzw. \par  $\vv{a} + \vv{b} = \mleft( \begin{array}{c} a_1 \\ a_2 \\a_3  \end{array} \mright) + \mleft( \begin{array}{c} b_1 \\ b_2 \\ b_3 \end{array} \mright) = \mleft( \begin{array}{c} a_1+b_1 \\ a_2+b_2 \\ a_3+b_3 \end{array} \mright) $. \par
+
+Die Subtraktion $\vv{a}-\vv{b}$ kann als Addition mit dem Gegenvektor $-\vv{b}$ aufgefasst werden. So gilt: $\vv{a}-\vv{b} = \vv{a}+ -\vv{b}$.
+
+\subsection{skalare Multiplikation eines Vektors}
+\subsubsection{Definition}
+Sei $\lambda\in\R$ eine beliebige reelle Zahl (\emph{Skalar}). Dann ist der Vektor $\lambda \cdot \vv{v}$ genau $|\lambda|$-mal so lang wie der Vektor $\vv{v}$ und parallel zu $\vv{v}$. Weiterhin wird definiert: $0 \cdot \vv{v}=\vv{0}$ und $\lambda \cdot \vv{0} = \vv{0}$. \par
+Für einen Vektor $\vv{v}=\mleft( \begin{array}{c} v_1 \\ v_2 \\ v_3  \end{array} \mright)$ definiert man nun die skalare Multiplikation wiefolgt. 
+\[ \lambda \cdot \vv{v} = \lambda \cdot \mleft( \begin{array}{c} v_1 \\ v_2 \\ v_3  \end{array} \mright) = \mleft( \begin{array}{c} \lambda \cdot v_1 \\ \lambda \cdot v_2 \\ \lambda \cdot v_3  \end{array} \mright) \]
+Analog gilt für einen zweidimensionalen Vektor: 
+\[ \lambda \cdot \vv{v} = \lambda \cdot \mleft( \begin{array}{c} v_1 \\ v_2  \end{array} \mright) = \mleft( \begin{array}{c} \lambda \cdot v_1 \\ \lambda \cdot v_2 \end{array} \mright) \]
+
+\subsubsection{Definition}
+Sei $\vv{v}$ ein beliebiger Vektor, so heißt $(-1) \cdot \vv{v} = -\vv{v}$ \emph{Gegenvektor} von $\vv{v}$. 
+
+\subsubsection{Definition}
+Sei $\vv{v}$ ein beliebiger vom Nullvektor verschiedener Vektor, so heißt der Vektor $\vv{v_0}= \dfrac{1}{|\vv{v}|}\cdot \vv{v}$ \emph{Einheitsvektor} von $\vv{v}$. Er hat stets die Länge $|\vv{v_0}|=1$.
+
+\subsection{Skalarprodukt}
+\subsubsection{Definition}
+Für die Vektoren $\vv{a},\ \vv{b} \neq \vv{0}$ nennen wir die reelle Zahl $\vv{a} \circ \vv{b}=|\vv{a}| \cdot |\vv{b}| \cdot \cos (\varphi)$ \emph{Skalarprodukt} von $\vv{a}$ und $\vv{b}$. \par
+Im $\R^2$ Vektorraum gilt:
+\[ \vv{a} \circ \vv{b}=|\vv{a}| \cdot |\vv{b}| \cdot \cos (\varphi) = a_1\cdot b_1 + a_2 \cdot b_2 \]
+Im dreidimensionalen Raum gilt analog dazu:
+\[ \vv{a} \circ \vv{b}=|\vv{a}| \cdot |\vv{b}| \cdot \cos (\varphi) = a_1\cdot b_1 + a_2 \cdot b_2 + a_3 \cdot b_3 \]
+
+\subsubsection{Satz}
+Die Vektoren $\vv{a}, \ \vv{b} \neq \vv{0}$ sind genau dann orthogonal zueinander, wenn gilt $\vv{a} \circ \vv{b} = 0$.
+
+\subsection{Das Kreuzprodukt (Vektorprodukt)}
+\subsubsection{Definition}
+Für die Vektoren $\vv{a}=\mleft( \begin{array}{c} a_1 \\ a_2 \\ a_3 \end{array}  \mright)$ und $\vv{b}=\mleft( \begin{array}{c} b_1 \\ b_2 \\ b_3 \end{array}  \mright)$ definieren wir das Kreuzprodukt als
+\[ \vv{a} \times \vv{b} = \mleft( \begin{array}{c} a_2b_3-a_3b_2 \\ a_3b_1-a_1b_3 \\ a_1b_2-a_2b_1 \end{array}  \mright) /text{.}  \]
+
+\subsubsection{Satz}
+$(\vv{a} \times \vv{b}) \neq \vv{0} \Rightarrow (\vv{a} \times \vv{b}) \perp \vv{a} \land (\vv{a} \times \vv{b}) \perp \vv{b}$
+
+\subsubsection{Satz}
+Der Flächeninhalt des Parallelogramms, das von den Vektoren $\vv{a}, \ \vv{b} \neq \vv{0}$ unter dem Winkel $\varphi$ aufgespannt wird, beträgt $\mleft| \vv{a} \times \vv{b} \mright| = |\vv{a}| \cdot |\vv{b}| \cdot \sin(\varphi)$. \par
+Das Volumen des Spates, der von den Vektoren $\vv{a}, \ \vv{b}, \ \vv{c} \neq \vv{0}$ aufgespannt wird, beträgt $\mleft| \mleft( \vv{a} \times \vv{b}\mright) \circ \vv{c} \mright|$.
+
+
+
+
+
+
+
+\end{document}
