@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "87fcf510ea105af3",
+    "id": "3c0a6e7a3d1a250f",
     "type": "split",
     "children": [
       {
-        "id": "964b6a4221d3785b",
+        "id": "e5e5ece5e2356d36",
         "type": "tabs",
         "children": [
           {
-            "id": "7c9ad603c8608953",
+            "id": "b751ab74361cb153",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "701deaa970e41b43",
+    "id": "e215e56142449150",
     "type": "split",
     "children": [
       {
-        "id": "cae509c4d86d9de3",
+        "id": "a8929c5abe114db7",
         "type": "tabs",
         "children": [
           {
-            "id": "e1c4d0d8a8322588",
+            "id": "89bf3d4f71bf4ba2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "c3330a4647c10155",
+            "id": "9c47e84c384e9c50",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "25b71f530f52ad48",
+            "id": "29b6852a983da7b2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "f2fe392b083b8a90",
+    "id": "3eaf79bc21bc8416",
     "type": "split",
     "children": [
       {
-        "id": "4c42e678eae9e490",
+        "id": "2a2a46490778e461",
         "type": "tabs",
         "children": [
           {
-            "id": "839f02fd64098d65",
+            "id": "4cccc52a151edaff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PuG/13.1 Aufzeichnungen.md",
+                "file": "Musik/13.1 akL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13.1 Aufzeichnungen"
+              "title": "Backlinks for 13.1 akL"
             }
           },
           {
-            "id": "9f894ba8956e9b77",
+            "id": "a37bdadadba2eb47",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PuG/13.1 Aufzeichnungen.md",
+                "file": "Musik/13.1 akL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 13.1 Aufzeichnungen"
+              "title": "Outgoing links from 13.1 akL"
             }
           },
           {
-            "id": "3b25a6357c93e5ef",
+            "id": "31adfe5c403dfc01",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "dca95f355546736a",
+            "id": "eafb0ecabdbf5692",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "PuG/13.1 Aufzeichnungen.md",
+                "file": "Musik/13.1 akL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 13.1 Aufzeichnungen"
+              "title": "Outline of 13.1 akL"
             }
           }
         ]
@@ -169,13 +169,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "7c9ad603c8608953",
-  "lastOpenFiles": [
-    "Musik/13.1 Aufzeichnungen.md",
-    "Musik/13.1 akL.md",
-    "PuG/13.1 Aufzeichnungen.md",
-    "Musik",
-    "PuG",
-    "Welcome.md"
-  ]
+  "active": "b751ab74361cb153",
+  "lastOpenFiles": []
 }
