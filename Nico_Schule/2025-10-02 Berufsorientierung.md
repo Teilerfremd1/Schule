@@ -28,10 +28,4 @@ y2ef-L3JY-2yYk-3VBe
 
 ---
 
-### PowerPoint Layout ändern
-- Grauer Strich zur Abtrennung der Quellen
-- Farbe auf vollweiß ändern (Abb!)
-- Abtrennung Bildrand: Unten wie oben
-- Mehr Formatvorlagen (zwei Bilder, ...)
-- Bilder tendenziell mehr in die Mitte, einheitliche Höhe?
 
