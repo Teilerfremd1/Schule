@@ -1,0 +1,36 @@
+
+### Vorbereitung: Video
+- Bis 1948: Alle Palästinenser
+- 1948: Eigener Staat Israel wird gegründet
+- #### Akko
+	- Araber und Juden in Harmonie
+	- Problemstadt historisch (viele Kriege)
+	- 1917: Briten herrschten
+- Jüdische Polen: Flohen aus Polen und wanderten nach Israel aus; "machten die Wüste fruchtbar" (Sozialistische Ideen)
+- Palästina wird von GB verwaltet
+- #### Arabischer Aufstand
+	- Miliz: Hagana (30.000 Juden melden sich bei der Britischen Armee) (Werden zur "Jüdischen Brigarde")
+	- **Mohammed Amin al-Husseini** (Mufti: Rechtsgelehrter): Verbündete Hitlers $\Rightarrow$ Nazi, festgenommen nach WW2, aber Asyl in Ägypten
+- Aufstände zur Einwanderung nach Palästina
+- GB wehrt sich
+- $\Rightarrow$ Gewalt auf jüdischer Seite, Extremisten. GB foltert Täter
+- 29.11.1947: Abstimmung über eigenen Staat für die Juden $\Rightarrow$ eigener Staat
+- Araber waren dagegen, dachten, sie könnten selber regieren. Juden nehmen ihn an
+- Kritik: Keine Verteidigungsstrategie für den neuen Staat
+- ### Nakba (Unglück/Katastrophe)
+- Def: Vertreibung und Flucht arabischer Palästinenser während des Palästinakrieges (47-49) im Mandatsgebiet Palästina und Israel sowie die Enteignung von Land, Eigentum und Besitz von 700.000 unmittelbar Betroffenen
+- **Mohammed Amin al-Husseini** wieder Motor der Gewalt, zusammen mit irakischen und syrischen Milizen
+- #### Deir Yassin
+	- 9.04.1948
+	- Opfer: 94-120, wurden auf beiden Seiten aber stark übertrieben
+	- Angriff auf palästinensisches Dorf von zionistischen Extremisten
+- Propaganda auf beiden Seiten
+- bis 14. Mai 1948: Abzug der Briten, Israel droht Krieg mit den arabischen Ländern
+- Jordanien, Ägypten, Irak, Syrien und Libanon greifen i. d. selben Nacht Israel an
+- Jordanische Besatzung
+- Israel gewinnt
+- Verlierer: 750000 palästinensische Flüchtlinge
+- Israel nahm sie nicht auf, sind bis heute gegen die Flüchtlinge (würde Staat in einen arabischen verwandeln)
+- UNO: Rückkehr nach Israel vieler Flüchtlinge möglich
+- $\Rightarrow$ auseinandergerissene arabische Familien
+- 
