@@ -15,7 +15,7 @@
 ### 2. Verstärkung
 - Klassenchat fragen?
 - Sängerin/Sänger - Kennt ihr wen?
-- Was brauchen wir?
+- Was brauchen wir? Melodie/Vox
 ---
 ### 3. Proberaum
 - Zeiten - wann hat jeder Zeit?
@@ -24,12 +24,23 @@
 ---
 ### 4. Songs
 - Behalten wir die alten Songs?
-- Öffnen wir den Song-Pool für die Jahrgangsstufe?
-	- Deadline?
-	- No-Go's?
-- Wie sammeln wir unsere Vorschläge?
+- Öffnen wir den Song-Pool für die Jahrgangsstufe? ja, padlet. Maja
+	- Deadline? 19.12.2025
+	- No-Go's? keine
+- Wie sammeln wir unsere Vorschläge? s.o.
 - ---
 ### 5. Name
-- Wie sollen wir uns nennen?
+- Wie sollen wir uns nennen? -> padlet 19.12.2025
 - "Abi-Band" ist ja ein bisschen trocken
 ## Andere Themen
+
+### Bass-Line
+- Vereinfachte Bass-Lines falls notwenig, keine Bass-Backing Tracks
+
+### Anzahl Songs n
+$4\leq n \leq 7$
+
+### Probenplan
+- Ende Januar erste Probe angesetzt
+- Pro Monat 1 Probe, im Juni mehr
+

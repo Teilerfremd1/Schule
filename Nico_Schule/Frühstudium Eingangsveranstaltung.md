@@ -1,8 +1,8 @@
 - IdM-Nummer: Antrag, Aufnahmeschreiben der Schule als Statusnachweis, Personalausweis
-- campo
+- campo $\rightarrow$ unwichtig die Anmeldung, aber Link
 - studon
 	- Antrag stellen mit Name, Fach, Dozent, ID-Nummer Lehrveranstaltung, IdM-Kennung, fruestudium@fau.de
 - faudir.fau.de/public für Personendaten
 - Mensa-Bezahlkarte: 5€; oder FAU-Karte beantragen??
-- 
+- SoSe: bis spätestens 28.02!!!!
 - 
