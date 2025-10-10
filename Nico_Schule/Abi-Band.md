@@ -2,7 +2,8 @@
 ---
 # 2025-10-10
 ## Nicos Themen
-### Alle Bock?
+---
+### 1. Alle Bock?
 
 | Yannik |     |
 | ------ | --- |
@@ -11,24 +12,24 @@
 | Nico   |     |
 
 ---
-### Verstärkung
+### 2. Verstärkung
 - Klassenchat fragen
 - Sängerin/Sänger - Kennt ihr wen?
 - Was brauchen wir?
-
-### Proberaum
+---
+### 3. Proberaum
 - Zeiten
 - Schule? Falls ja: frühzeitig Termine klären $\rightarrow$ Frau Zengler
 - Wie oft?
 ---
-### Songs
+### 4. Songs
 - Behalten wir die alten Songs?
 - Öffnen wir den Song-Pool für die Jahrgangsstufe?
 	- Deadline?
 	- No-Go's?
 - Wie sammeln wir unsere Vorschläge?
 - ---
-### Name
+### 5. Name
 - Wie sollen wir uns nennen?
 - "Abi-Band" ist ja ein bisschen trocken
 ## Andere Themen
