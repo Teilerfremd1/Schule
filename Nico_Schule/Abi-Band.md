@@ -13,12 +13,12 @@
 
 ---
 ### 2. Verstärkung
-- Klassenchat fragen
+- Klassenchat fragen?
 - Sängerin/Sänger - Kennt ihr wen?
 - Was brauchen wir?
 ---
 ### 3. Proberaum
-- Zeiten
+- Zeiten - wann hat jeder Zeit?
 - Schule? Falls ja: frühzeitig Termine klären $\rightarrow$ Frau Zengler
 - Wie oft?
 ---
