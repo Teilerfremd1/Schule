@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3af74f4f9b8d2ee3",
+        "id": "515dda030b381599",
         "type": "tabs",
         "children": [
           {
-            "id": "14c0f6158341e278",
+            "id": "3f072a2a655c9334",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abi-Band.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Abi-Band"
-            }
-          },
-          {
-            "id": "531055da50c0e60d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PuG/Friedensplan Gaza (Stand 2025-09-29).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Friedensplan Gaza (Stand 2025-09-29)"
+              "title": "New tab"
             }
           }
         ]
@@ -183,13 +165,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "14c0f6158341e278",
+  "active": "3f072a2a655c9334",
   "lastOpenFiles": [
+    "Deutsch.md",
+    "PuG/Friedensplan Gaza (Stand 2025-09-29).md",
+    "Abi-Band.md",
     "PuG/13.1 Aufzeichnungen.md",
     "Frühstudium Eingangsveranstaltung.md",
-    "Abi-Band.md",
     "2025-10-02 Berufsorientierung.md",
-    "PuG/Friedensplan Gaza (Stand 2025-09-29).md",
     "Beweis Mathe.md",
     "Untitled",
     "Geschichte/2025-10-09 Aufzeichnungen.md",
