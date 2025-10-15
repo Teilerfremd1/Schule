@@ -11,10 +11,14 @@
             "id": "3f072a2a655c9334",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Musik/13.1 Aufzeichnungen 2025-10-01 und 08.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "13.1 Aufzeichnungen 2025-10-01 und 08"
             }
           }
         ]
