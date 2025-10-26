@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "956df19ee565777b",
+        "id": "66db8335262582ef",
         "type": "tabs",
         "children": [
           {
-            "id": "236ff8bbaf0e798e",
+            "id": "ff953ee2fe689adb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fächer/PuG/13.1 Aufzeichnungen.md",
+                "file": "Fächer/Musik/13.1 Aufzeichnungen 2025-10-01 und 08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.1 Aufzeichnungen"
+              "title": "13.1 Aufzeichnungen 2025-10-01 und 08"
             }
           }
         ]
@@ -169,13 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "236ff8bbaf0e798e",
+  "active": "ff953ee2fe689adb",
   "lastOpenFiles": [
+    "Fächer/Englisch/Englisch eigenverantwortlich.md",
+    "Fächer/Englisch/Fahrplan.md",
+    "Fächer/PuG/13.1 Aufzeichnungen.md",
     "Fächer/Ethik/13.1 Aufzeichnungen Ethik.md",
     "Fächer/Geschichte/2025-10-09 Aufzeichnungen.md",
     "Fächer/Deutsch/13.1 Aufzeichnungen Deutsch.md",
-    "Fächer/Englisch/Fahrplan.md",
-    "Fächer/Englisch/Englisch eigenverantwortlich.md",
     "Lerngruppen Mathematik.md",
     "Frühstudium Eingangsveranstaltung.md",
     "Sport/13.1 akL.md",
@@ -186,7 +187,6 @@
     "Fächer/Ethik",
     "Abi-Band.md",
     "2025-10-02 Berufsorientierung.md",
-    "Fächer/PuG/13.1 Aufzeichnungen.md",
     "Fächer/PuG/Friedensplan Gaza (Stand 2025-09-29).md",
     "Fächer/Englisch",
     "Beweis Mathe.md",

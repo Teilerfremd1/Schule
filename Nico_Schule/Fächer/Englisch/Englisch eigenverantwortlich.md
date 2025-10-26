@@ -43,5 +43,24 @@ The atmosphere in these houses in a cold matter. It is mentioned that neither th
 We can conclude from the given examples that it is suggested to include some kind of place as "home", however it needn't be neither a residence nor a country. Since you can have more then one home, but also no home at all, it is not linked to a certain amount like "one home only" or "you can have exactly 3 homes". There simply is no limitation. In the examples above, we have seen that home might be related to a feeling. And indeed, I postulate a home as a place where you feel connected to (Mind the use of "a home" instead of "the home"). You feel connected to the place, you feel free, like you arrived somewhere, i.e. the Weißwurst-culture or "turkey-turmoil". I am now giving a brief definition of what a home is in my perspective:
 _A **home** is a place where one feels connected or rooted to. It needn't be linked to your place of birth or your childhood, however often it does. A home is a place where one feels free to express how one feels and behave like one would. Homes can change in a lifespan, and the amount of homes is not limited by any number. Last but not least, it is a very personal relation to a place, a very deeply one indeed._ 
 
+## KW 43
+### S. 78/1
+- one needs to have a passport from that country
+
+### S. 78/2
+a)
+- watching Doctor Who
+- drinking tea
+- making some people angry for taking their stuff though claiming they didn't do it
+- language and history
+- patriotic
+b)
+The speaker is a typical patriot from the UK. He claims that the British Empire didn't take anything from those who are mad at them, and claims he knows history. Although that is a contradiction since if he knows history, he should know that the BE did indeed take many things away from all the people. Be it terretory, paintings or gold. They even took many lifes. The British history is not so happy-ending and he doesn't seem to know it. $\Rightarrow$ He doesn't know history although he claims to. The patriotic component can be outlined by stating the verse "I would still give my life for yours"
+c) 
+He complains about hate against foreigners, however indeed they are citizens. 
+
+### S.78/3
+trivial
+
 
 
