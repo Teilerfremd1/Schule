@@ -67,9 +67,13 @@ $\Rightarrow$ Widerspruch, Problem
 
 ## Nahost-Lexikon
 - https://www.taskcards.de/#/board/8513e06b-681c-493f-b285-ce72d6bc4bb1/view?token=0552acef-77d2-4dd3-852a-cc7968e886b4
+- discontinued
 
 --- 
 
 # 2025-10-16
 - Zeitstrahl: https://www.taskcards.de/#/board/d4d75011-7c68-4823-93cc-5a67728609ff/view?token=7bfde00c-c2b1-4743-b731-c5e090beca50
 
+# 2025-10-30 
+- Präsentation vom Zeitstrahl zu Ende
+- vgl Lösung
