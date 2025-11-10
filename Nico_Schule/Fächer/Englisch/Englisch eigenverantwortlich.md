@@ -64,3 +64,39 @@ trivial
 
 
 
+# Art and Commerce
+## S. 245
+
+| Line    | Word          | Deutsch             |
+| ------- | ------------- | ------------------- |
+| 1. Text | fine arts     | bildende Künste     |
+| 1. Text | a busker      | ein Straßenmusikant |
+| 2. Text | philantropic  | wohltätig           |
+| 3. Text | to remunerate | entlohnen           |
+### Main aspects
+- Art $\subset$ culture
+	- visual art
+	- performing art
+	- fine art
+	- applied art
+---
+- UK and US: art is important
+	- UK: own Art Council in every country
+	- NEA (National Endownment for the Arts) supports arts in each state ($\rightarrow$ tax revenues)
+---
+- traditional arts
+	- museums, theaters, opera houses (public funding)
+	- block busters like _James Bond_ and _Star Wars_ films
+- architecture is important in arts (e.g. the Shard)
+- streaming
+	- pro: easy access
+	- con: are not rightly remunerated
+	- con: piracy
+
+## S. 246f
+1) Ikarus fell because he ignored the warnings of Daedalus, his father, to not fly to high
+2) pageantry: Prunk
+	1) farmer: ploughing the land
+	2) Ikarus falling from the sky
+	3) both are not being noticed
+3)  -
