@@ -1,16 +1,17 @@
 # Fragen 
-- 
+- GT des Rechtspos. lernen? -> damit arbeiten können
+- material und materiell sind tautologien
 
 # Recht und Gerechtigkeit
 ###### Definition von Recht
-Recht ist der Versuch der Objektivierung von einer (ge)rechten Ordnung durch ihre schriftliche Fixierung. Gerechtigkeit ist. von möglicherweise subjektiven Moralvorstellungen abhängig.
+Recht ist der Versuch der Objektivierung von einer (ge)rechten Ordnung durch ihre schriftliche Fixierung. Gerechtigkeit ist von möglicherweise subjektiven Moralvorstellungen abhängig.
 
 
 | Recht                                                                                                                                                      | Wille zur Gerechtigkeit                                                                                                                                  | Gerechtigkeit |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | System von verhaltensregelnden Normen<br>$\rightarrow$ verbunden mit Sanktionen<br>**Zwangscharakter**                                                     | materieller Rechtsbegriff:<br>- über seine formalen Merkmale hinaus<br>- hat sich Recht an moralischen Maßstäben (z.B. Verfassungsnormen) zu orientieren | /             |
 | Zustandekommen durch den Gesetzgeber in einem Staatsgebiet, indem man über ein Gewaltmonopol verfügt<br>$\rightarrow$ i.d.R. durch staatliche Organisation |                                                                                                                                                          |               |
-| Alles= Recht im **formalen Sinne**                                                                                                                         |                                                                                                                                                          |               |
+| Alles = Recht im **formalen Sinne**                                                                                                                        |                                                                                                                                                          |               |
 
 # Was ist Recht
 - Unterscheidung zwischen formell und material
@@ -38,10 +39,14 @@ Recht ist der Versuch der Objektivierung von einer (ge)rechten Ordnung durch ihr
 # Naturrecht vs. Rechtspositivismus
 ## Naturrecht
 
+- **Recht ist Wille zur Gerechtigkeit**
+
 | Pro                                                                                 | Contra                                                |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | Gesetze können ungerecht sein<br>$\rightarrow$ Gesetze sollten nichtig sein         | Jedes Gesetz hat einen Wert (Gemeinnutz, zu Zweifeln) |
 | $\Rightarrow$ Es gibt Rechtsgrundsätze, die größer sind als jede rechtliche Satzung | Menschen sind unvollkommen                            |
+| Recht muss moralischem Anspruch an Gerechtigkeit genügen!                           |                                                       |
+| Missbrauchsgefahr durch Rechtspositivismus                                          |                                                       |
 ## Rechtspositivismus
 
 ### Grundthesen des Rechtspositivismus
@@ -85,3 +90,5 @@ $\Rightarrow$ Schwächen von beiden Seiten müssen ausgeglichen werden, sodass m
 	- Gerechtigkeit dadurch, weil alle Alternativen nicht so viele Vorteile bieten
 	- Kritik: Prämissen falsch, unvollkommener Markt, versteckte Monopole, Markt ethisch neutral $\Rightarrow$ nicht gerecht
 	
+# John Rawls
+!!!
