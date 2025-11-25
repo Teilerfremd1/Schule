@@ -77,3 +77,30 @@ $\Rightarrow$ Widerspruch, Problem
 # 2025-10-30 
 - Präsentation vom Zeitstrahl zu Ende
 - vgl Lösung
+
+# Klausur
+- Rede oder Karikatur als Quelle
+
+# 2025-11-20
+- Hegemonie
+
+"Arbeite aus M5 S. 60f die zentralen Elemente der Truman-Doktrin heraus und beurteile deren Bedeutung im Kontext der bipolaren Weltordnung nach 1945. Beziehe dabei die Karte M7 ein."
+- Schwarz-Weiß denken
+- Legitimation von USA Krieg, weil _für die Freiheit_
+- Plenum:
+	- Hintergrund
+		- Konflikt der Weltmächte USA vs. UdSSR mit ihren gegensätzlichen Weltanschauungen.
+		- Zweiteilung der Welt
+	- Rede
+		- Gegensätze: 
+			- "Minderheits- vs. Mehrheitswillen"
+			- "frei" vs. "gewaltsam"
+			- ...
+		- $\Rightarrow$ USA als Beschützer einer freiheitlich-demokratischen Weltordnung
+		- $\Rightarrow$ wirtschaftlich-finanzielle Unterstützung
+	5 Begriffe
+	
+
+| NATO        | **Blockbildung** | Warschauer Pakt     |
+| ----------- | ---------------- | ------------------- |
+| Marshalplan |                  | Containment-Politik |

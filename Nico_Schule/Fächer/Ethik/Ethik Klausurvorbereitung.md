@@ -91,4 +91,10 @@ $\Rightarrow$ Schwächen von beiden Seiten müssen ausgeglichen werden, sodass m
 	- Kritik: Prämissen falsch, unvollkommener Markt, versteckte Monopole, Markt ethisch neutral $\Rightarrow$ nicht gerecht
 	
 # John Rawls
-!!!
+- Erster Grundsatz: Jeder hat das **gleiche** Recht auf das **umfangreichste** Gesamtsystem gleicher Freiheiten.
+- Zweiter Grundsatz (soziale und wirtschaftliche Ungleichheiten)
+	- sie müssen mit Ämtern und Positionen verbunden sein, die allen mit Chancengleichheit gegenüberstehen.
+	- sie müssen den am wenigsten Begünstigten den größten Vorteil bringen (Differenzenprinzip)
+- Vorrang
+	- persönliche Freiheit kann eingeschränkt werden, wenn das Gesamtsystem freier wird, oder wenn die Freiheit für die betroffenen annehmbar ist.
+	- Gerechtigkeit vor Leistungsfähigkeit/Nutzenmaximierung, Chancengleichheit vor Differenzierungsprinzip

@@ -1,4 +1,4 @@
-- MS Teams: Portfolio Inhalte
+ - MS Teams: Portfolio Inhalte
 - 17.12 Bewerbungstraining
 - Okt-Feb Gespräch Kriegbaum
 	- Bafög

@@ -14,4 +14,4 @@
 - Spenden: Möglich. Spenden wir der Abi-Kasse/Snacks für alle
 
 
-- Öffnung auch für Q12 möglich? (Jünger nicht) yes
+- Öffnung auch für Q12 möglich? (Jünger nicht) yes 

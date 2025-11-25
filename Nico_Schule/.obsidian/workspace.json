@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gauss Integral herleitung.md",
+                "file": "Fächer/Musik/13.1 Klausur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gauss Integral herleitung"
+              "title": "13.1 Klausur"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 322.5
   },
   "right": {
     "id": "3eaf79bc21bc8416",
@@ -171,18 +171,21 @@
   },
   "active": "236ff8bbaf0e798e",
   "lastOpenFiles": [
-    "Fächer/PuG/13.1 Aufzeichnungen.md",
-    "Gauss Integral herleitung.md",
-    "Fächer/Ethik/Ethik Klausurvorbereitung.md",
-    "Fächer/Ethik/13.1 Aufzeichnungen Ethik.md",
     "Fächer/Musik/13.1 akL.md",
+    "Fächer/Musik/13.1 Klausur.md",
     "Fächer/Musik/13.1 Aufzeichnungen 2025-10-01 und 08.md",
+    "Fächer/Deutsch/13.1 Aufzeichnungen Deutsch.md",
+    "Fächer/PuG/13.1 Aufzeichnungen.md",
+    "Fächer/Geschichte/2025-10-09 Aufzeichnungen.md",
+    "Fächer/Ethik/Ethik Klausurvorbereitung.md",
+    "LiTo Laptops.md",
+    "Fächer/Ethik/13.1 Aufzeichnungen Ethik.md",
+    "Lerngruppen Mathematik.md",
+    "2025-10-02 Berufsorientierung.md",
+    "Gauss Integral herleitung.md",
     "Fächer/PuG/Friedensplan Gaza (Stand 2025-09-29).md",
     "Fächer/Englisch/Englisch eigenverantwortlich.md",
     "Fächer/Englisch/Fahrplan.md",
-    "Fächer/Geschichte/2025-10-09 Aufzeichnungen.md",
-    "Fächer/Deutsch/13.1 Aufzeichnungen Deutsch.md",
-    "Lerngruppen Mathematik.md",
     "Frühstudium Eingangsveranstaltung.md",
     "Sport/13.1 akL.md",
     "Sport",
@@ -190,7 +193,6 @@
     "Fächer/Deutsch",
     "Fächer/Ethik",
     "Abi-Band.md",
-    "2025-10-02 Berufsorientierung.md",
     "Fächer/Englisch",
     "Beweis Mathe.md",
     "Fächer/Geschichte",
