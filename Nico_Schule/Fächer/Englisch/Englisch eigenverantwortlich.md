@@ -100,3 +100,47 @@ trivial
 	2) Ikarus falling from the sky
 	3) both are not being noticed
 3)  -
+
+# KW 49
+comparison modern day theatre with Shakespeare's theatre
+
+| Shakespeare's theatre                                                                                         | modern day theatre                                                                                  |
+| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| amphitheatre, no roof (in the centre)                                                                         | large building with roof so nobody gets wet                                                         |
+| no curtain                                                                                                    | curtain hides the stage                                                                             |
+| no seats (at least on ground arena)                                                                           | seats for everyone                                                                                  |
+| theatre has to compete with cruel forms of entertainment (e.g. bear-beating, cockfighting, public executions) | has to compete with cinema, streaming platforms, clubs, casinos, the Internet, ...                  |
+| actors have low reputation                                                                                    | actors are stars, often well-payed                                                                  |
+| theatre going is a new form of entertainment                                                                  | often regarded as old-fashioned and sophisticated (kultiviert, ausgearbeitet) form of entertainment |
+Imagine you were Shakespeare and wanted to stage a new play. You need a huge audience to make it a success and you must stage it in broad daylight. What difficulties do you face? How do you overcome them? How would you deal with them today?
+
+| Problem                         | Modern day solution                                            |
+| ------------------------------- | -------------------------------------------------------------- |
+| how to annoucne plays           | $\leftarrow$ not everyone can read, therefore: hoisting a flag |
+| which props?                    | e.g. for night scenes                                          |
+| female roles?                   | boys playing female roles                                      |
+| special effects?                | trap door, rope for lowering people/objects                    |
+| facial expressions              | make-up in an exaggerated manner                               |
+| burning wet wood to produce fog | modern-day fog machines                                        |
+What was fascinating about Shakespeare's theatre back then?
+- new form of entertainment
+- very few alternatives
+- few people could read (expensive books)
+- no TV, internet, radio, newspapers
+- no traveling
+
+## Fact file Shakespeare's life and times (pp. 254-255)
+### The Elizabethian Age
+- Queen Elizabeth I (1533-1603)
+- medieval superstitions: Aberglauben
+- many still believend in myths (_Hamlet_ and _Macbeth_)
+### Shakespeare's early life
+- William Shakespeare (1564-1616)
+- pamphlet: Flugblatt
+- He got mocked (verspottet) in a pamphlet (in 1592)
+
+### Shakespeares success
+- was prolific (>30 plays)
+- 154 sonnets
+- most frequently played and filmed author in history
+- 
