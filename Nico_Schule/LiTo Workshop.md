@@ -35,7 +35,7 @@ _Zielgruppe: Unterstufe_
 - XLR-Kabel richtig anschließen
     
 - In die Stagebox stecken
-    
+	
 
 ### **B. Signalweg verfolgen**
 
