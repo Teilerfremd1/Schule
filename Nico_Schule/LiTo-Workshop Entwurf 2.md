@@ -64,4 +64,3 @@ Methode: Rotieren nach Halbzeit_
 - Fragen an uns
 	
 - Ausblick: Effekte, Monitoring, Lautsprecherarten, Feedback vermeiden
-	

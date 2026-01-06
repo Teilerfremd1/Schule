@@ -104,3 +104,7 @@ $\Rightarrow$ Widerspruch, Problem
 | NATO        | **Blockbildung** | Warschauer Pakt     |
 | ----------- | ---------------- | ------------------- |
 | Marshalplan |                  | Containment-Politik |
+
+# 2025-12-11
+Zeitstrahl 1990 - 2001
+https://de.wikipedia.org/wiki/George_W._Bush

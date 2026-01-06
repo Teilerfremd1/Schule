@@ -1,0 +1,50 @@
+Anwesend 18
+
+## Einstieg
+- Schulstreik
+- **Abstimmung Rentenpaket $\rightarrow$ nachschauen Ergebnisse** https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=985
+- **Musterung/Bedarfswehrpflicht Abstimmung nachschauen von heute!!!** https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=984
+- Verweis aufs Grundgesetz (Art 12a (1) bis (4))
+	- Diskussion zu Absatz 1, 2 (für Männer), und 4 (für Frauen)
+		- Kriegsdienst kann man eingezogen werden; man kann aber verweigern! Ersatzdienst in keinem Zusammenhang zu Militär; also keine Verpflichtung!
+		- Emma froh, dass nicht verpflichtet. Verwerflich dass Zwang existiert. 
+		- Bagdagül über letzten Satz. 
+		- Franka schwierig, wegen Gleichberechtigung, sieht Widersprüche. Aber: "Mich betrifft es nicht."
+- Artikel 4 GG
+	- besprechen, Kritik an o.g.: "Niemand darf gegen sein Gewissen zum Kriegsdienst mit der Waffe gezwungen werden." -> Pflicht vs. Zwang (Ausweich: Zivildienst)
+- Zahl der Soldaten seit 2001: Seit 2011 Zahl runter
+	- Gründe für Aussetzung der Wehrpflicht: Sparen, keine Landesverteidigung (Zahlen zu klein), eher "internationale Polizei" (Schlaht). Deshalb braucht man keine Wehrdienstleistenden
+	- jetzt: Landesverteidigung
+- Wie groß ist die Bundeswehr? 
+	- 184.262 Uniform + 81.923 in Zivil (260.000)
+- Pistorius (nicht mehr beliebtester Politiker, SPD, Bundesverteidigungsminister, 2. Legislaturperiode, Worte wie "kriegstüchtig")
+	- 50.000 - 60.000 Soldaten mehr als heute
+	- Kampfbrigarden voll ausstatten
+	- Woher kommt dieser Mehraufwand? Drohung durch Russland; NATO generell; Hegseth: 5% des BIP; Druck USA
+- Wehrdienst in Schweden
+	- Unterschiede: Frau, lachend (Munition :D)
+	- Schwedisches Modell
+		- Pflichtfragebogen mit 18 Jahren
+		- freiwillig melden
+		- Genommen werden nur die Besten
+		- **Gibt es in Schweden _auch_ Zwangsverpflichtungen, oder ging alles freiwillig?**
+			- https://www.zeit.de/politik/deutschland/2025-04/wehrdienst-deutschland-schwedisches-modell-faq#wie-funktioniert-der-wehrdienst-in-schweden
+		- Exkurs: Finnland viel besser in Schule, normal schaut sich DE nix aus Skandinavien ab
+		- https://www.bmvg.de/de/aktuelles/alles-wichtige-rund-um-den-neuen-wehrdienst-6040510
+	- **Hefteintrag: Das neue Wehrdienstgesetz - nach schwedischem Vorbild?**
+		- Definition Reservist: Mensch, der AGA absolviert hat. Erklären sich bereit
+			- Reservist: 6 Monate dienen
+		- Ziel: Vergrößerung des Bestands von Reservisten, die im Verteidigungsfall eingezogen werden können
+		- $\Downarrow$ 
+		- Wehrerfassungsbogen für Männer (auch Transpersonen, die männlich gelten) ab 18 Jahren verpflichtend, für Frauen ab 18 Jahren freiwillig!
+		- $\Downarrow$ 
+		- "Verpflichtende Musterung" aufgrund fehlender Kapazitäten bei der Bundeswehr. Zuerst 20.000 freiwillige Männer (geb. ab 1.1.2008). Später 300.000 Männer
+		- Wie freiwillig ist der Wehrdienst?
+			- bis 2035 "Aufwuchskorridor"; halbjährliche Kontrolle, ob Zielgröße erreicht wird
+			- Falls nicht der Fall: "Bedarfswehrpflicht" (Gesetzestext anschauen, ob langzeitlich gilt, sondern temporär)
+			- sollte es die Verteidigungslage erfordern, entscheidet der Bundestag über die Einführung der "Bedarfswehrpflicht"
+			- **Nachschauen, ob dass an den Korridor gebunden ist, oder nicht**
+		- Dauer: $12>x\geq6$ Monate, danach Soldat auf Zeit (SaZ)
+		- Ziel: Reservisten stärken (kriegstüchtig werden), mehr Freiwillige generieren (Hoffnung auf Schweden-Effekt), Bündnisverpflichtung + Außenpolitisch: Symbol nach außen, ggf. für perspektivlose Menschen als Möglichkeit
+	- Gesamtbild fragwürdig, wobei die Einzelpunkte nachvollziehbar sind. Jung sein ist politisch schwierig (Franka)
+	- Klausur: $\emptyset : 10,15$ 

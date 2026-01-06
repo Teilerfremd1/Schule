@@ -1,0 +1,1 @@
+$$ \int_{-\infty}^5 f(x) dx = lim_{z\rightarrow -\infty} \int_z^5 f(x)dx$$
