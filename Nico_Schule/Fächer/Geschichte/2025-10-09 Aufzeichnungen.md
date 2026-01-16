@@ -108,3 +108,7 @@ $\Rightarrow$ Widerspruch, Problem
 # 2025-12-11
 Zeitstrahl 1990 - 2001
 https://de.wikipedia.org/wiki/George_W._Bush
+
+
+# 2026-01-08 
+https://de.wikipedia.org/wiki/Armenien für nächste Woche

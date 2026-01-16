@@ -1,0 +1,11 @@
+- Events: v.a. Geschichte, Termin April, Verabschiedung. (Podiumsdiskussion nix neues bekannt, Nina)
+	- Transport Schulsache!!!!
+	- Bürgermeister?
+	- Generell also Ablauf checken
+	- Orchester??? (Band mit Orchester?)
+- Nina: 100 Geschenk für LiTo Link -> Jürgen soll aussuchen?
+- Junge Leute: Spektakulum, Podiumsdiskussion check
+- Workshop:  Licht 22.01
+- Sportgala?
+	- Setup? wie letztes Mal, dünne lange Truss Schlanker??? 
+	- Musik live dazu
