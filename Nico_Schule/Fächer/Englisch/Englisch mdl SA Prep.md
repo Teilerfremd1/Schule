@@ -4,7 +4,7 @@ stereotypes: polite, tea drinking, stiff upper lip
 
 ## History of the UK
 - England, Scotland, Wales and Ireland
-- 1542: Wales has been fully **annexed** by 1707
+- 1542: Wales has been fully **annexed** by England
 - 1707: Scotland and England were **united**
 - 1801: 'Kingdom of Great Britain and Ireland': **union** between them
 - more political autority after movements in Ireland, Scotland and Wales
@@ -80,7 +80,90 @@ Labour Party
 ###### Straße in Westminster mit Regierungsgebäuden
 Whitehall
 
-#### 
+#### Disneyland-effect
+Idea: First impression dictates expactations of sth.
+- following impressions are always being compared to the first (original) one
+- e.g. safari vs. britishness: first expactations (disney, stereotypes) do not match!
 
 
- 
+
+# Shakespeare and the Elizabethian Age
+## Comparison
+| Shakespeare's theatre                                                                                         | modern day theatre                                                                                  |
+| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| amphitheatre, no roof (in the centre)                                                                         | large building with roof so nobody gets wet                                                         |
+| no curtain                                                                                                    | curtain hides the stage                                                                             |
+| no seats (at least on ground arena)                                                                           | seats for everyone                                                                                  |
+| theatre has to compete with cruel forms of entertainment (e.g. bear-beating, cockfighting, public executions) | has to compete with cinema, streaming platforms, clubs, casinos, the Internet, ...                  |
+| actors have low reputation                                                                                    | actors are stars, often well-payed                                                                  |
+| theatre going is a new form of entertainment                                                                  | often regarded as old-fashioned and sophisticated (kultiviert, ausgearbeitet) form of entertainment |
+## Fact File: Shakespeare
+### The Elizabethian Age
+- Queen Elizabeth I (1533-1603)
+- medieval superstitions: Aberglauben
+- many still believend in myths (_Hamlet_ and _Macbeth_)
+### Shakespeare's early life
+- William Shakespeare (1564-1616)
+- pamphlet: Flugblatt
+- He got mocked (verspottet) in a pamphlet (in 1592)
+
+### Shakespeares success
+- was prolific (>30 plays)
+- 154 sonnets
+- most frequently played and filmed author in history
+1989: Film "Henry V" is being released: hype all over Shakespeare's work
+
+| Problem                         | Modern day solution                                            |
+| ------------------------------- | -------------------------------------------------------------- |
+| how to annoucne plays           | $\leftarrow$ not everyone can read, therefore: hoisting a flag |
+| which props?                    | e.g. for night scenes                                          |
+| female roles?                   | boys playing female roles                                      |
+| special effects?                | trap door, rope for lowering people/objects                    |
+| facial expressions              | make-up in an exaggerated manner                               |
+| burning wet wood to produce fog | modern-day fog machines                                        |
+Bill Bryson: Portraits about Shakespeare: there are some, but you can't tell if it really is him. Its from the right period, subject looks not too unwealthy, but can't tell fa shure. Cuz skin color fore example
+a bohemian: ein Böhme/Künstler
+a bard: Dichter
+
+## Shakespeare's hometown
+**Stratford-upon-Avon**
+His father was a craftsman (glove maker) and **town councillor**
+Shakespeare was a playwright
+Holy Trinity Church (he was baptised and burried there)
+He left school at the age of 15
+mainly: writing speeches and stories, latin and greek (classical references)
+Shakespeare didnt study at university
+
+voc: jdn. etwas vorwerfen: to blame/alledge
+to woo: locken/werben
+
+# Short Story and Edgar Allan Poe
+### Edgar Allen Poe
+- 19th Century
+- poet
+- married once
+- died under mysterious cicumstances
+- Well known works
+	- The Raven (poem) (NEVERMORE)
+	- The Gold Bug
+	- The Tell-Tale Heart
+	- The murders in the Rue Morgue
+	- The black cat
+
+#### The Raven
+- one word: nevermore
+- 
+
+#### The Tell-Tale Heart (das verräterische Herz)
+- one of the old man's eyes made his blood run cold (thats why he killed him)
+- $\Rightarrow$ suggests, that narrator is mentally ill, although he claims not to be
+
+### Typical stuff for short stories
+- important moment (short glimpse)
+- single event
+- only one or two characters
+- direct beginning, little to no introduction
+- plot twist near the end
+- elliptical, distinct language
+- it is short
+

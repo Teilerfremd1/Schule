@@ -143,4 +143,3 @@ What was fascinating about Shakespeare's theatre back then?
 - was prolific (>30 plays)
 - 154 sonnets
 - most frequently played and filmed author in history
-- 

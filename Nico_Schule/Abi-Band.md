@@ -47,61 +47,27 @@ $4\leq n \leq 7$
 
 ## Kommentare zu den Songs
 
-#### Fly Away
+#### Fly Away (+)
 Kein Klavier
 Gesang wichtig
-#### We Will Rock You
-nein bitte nicht
-#### Wenn die Party vorbei ist
-Gesang, zu langsam
-#### Surrender
-Cooler Song, Klavier kann man in integrieren. Gesang? 
 #### Please Tell Rosie (+)
 Gesang sampeln, Backing, möglich, maybe ganz cool?
 #### Bring Me To Life
 GESANG UNMÖGLICH (außer Vira maybe). Sonst sau geil
-#### Seasons
-Keys schwierig, GESANG?
-#### That's the Way (I Like It)
-Lebt vom 80er Charakter, wird schnell boring. Intro??
+
 #### Come A Little Closer (+)
-Vocals issue
-#### Last Resort
-zu Heavy glaub ich. Keys? Vocals?
-#### Ride (+)
-Vocals, Gitarre?
-#### Can't Hold Us
-Wer Rapt den Scheiß? Wer singt? Orchestrierung
-#### Ich, Ich, Ich
-Vocals?
-#### Karma Police (+)
-Vocals? sonst sehr nice
+Vocals issue KLAVIER?
+
 #### Seperate Ways (Worlds Apart) (+)
 wäre Ideal, Vocals schwer
-#### Sweet Dreams
-Naja
-#### Everybody Wants To Rule The World
+#### Everybody Wants To Rule The World (+)
 VOCALS
 #### Summer Of 69
 VOCALS
-#### Pressure (+)
-Vocals, Rest feier ich sehr
-#### Down Under
-Vocals?
-#### RHCP allgemein
-WER SINGT SO?
-#### All-Star
-Da wär nice, vocals?
+
 #### Shut Up And Dance
 Vocals
-#### Geboren weil du lebst
-zu balladig
-#### Eyes Without a Face
-Vocals
-#### Let's Groove
-Earth Wind And Fire HILFE
-#### That's What I Like
-Vocals
+
 #### Stop The Clocks
 Vocals und unbekannt
 #### Useless
