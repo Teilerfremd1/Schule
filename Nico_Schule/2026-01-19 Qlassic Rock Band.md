@@ -1,0 +1,16 @@
+- Technik
+	- Logic
+	- MIDI?
+	- Backing bei allen?
+	- Nur CLK/auch Backings?
+- Auftritt
+	- eigenes Drum Set (Helagy-Kombo??)
+	- spiele Sounds von meinem Laptop ab passt. Mittelmaß
+	- ggf. E-Piano via MIDI an Mac (sicher/Kabellänge???) unsicher
+	- **Aufteilung wie letztes Jahr?** (Aula $\leftrightarrow$ NB Foyer) ja (maybe hell)
+	- Overview Aufbau schon? warten
+- Songvorschläge
+	- Playlist
+- Burg Feuerstein?? Nein
+- Nur Band oder auch Chor? (maybe ein Stück)
+- 
