@@ -29,7 +29,7 @@ $(G, \circ)$ und $(H, \cdot)$ Gruppen. GH, wenn
 - GA falls GI und $H=G$
 ### Wichtige Abbildungen
 1. Der **Kern** $\ker (\phi) := \phi^{-1}(e_H)=\{ g\in G | \phi(g)=e_H\}$
-2. Das **Bild** $\mathrm{im} (\phi):=\{ h \in H | \exists g \in G: \phi (G) = h \}$
+2. Das **Bild** $\mathrm{im} (\phi):=\{ h \in H | \exists g \in G: \phi (g) = h \}$
 ### Ringe und Körper
 - (R1) $(R,+)$ abelsche Gruppe
 - (R2) $(R, \cdot)$ Halbgruppe
@@ -51,7 +51,7 @@ zum Beispiel: Polynomabbildung: $p:\mathbb{N}_0 \rightarrow R$ mit $p(n)=0$ für
 $$\cos (\arg(z)) = \dfrac{\mathrm{Re}(z)}{|z|}= \dfrac{x}{\sqrt{x^2+y^2}} \hspace{2em} \sin(\arg(z)) = \dfrac{\mathrm{Im}(z)}{|z|}=\dfrac{y}{\sqrt{x^2+y^2}}$$
 ### Vektorräume
 Def. Vektorraum
-- (V1) Psedoassoziativität $\lambda \cdot (\mu v) = (\lambda \mu ) \cdot v$ für alle $\lambda, \mu \in \mathbb{K}$, $v\in V$
+- (V1) Pseudoassoziativität $\lambda \cdot (\mu v) = (\lambda \mu ) \cdot v$ für alle $\lambda, \mu \in \mathbb{K}$, $v\in V$
 - (V2) Skalare Distributivität $(\lambda + \mu ) \cdot v = (\lambda \cdot v) + (\mu \cdot v)$ 
 - (V3) Vektorielles Distributivität $\lambda \cdot (v + w) =  (\lambda \cdot v) +(\lambda w)$
 - (V4) Normierung $1_\mathbb{K}\cdot v = v$ für alle $v \in V$
@@ -63,7 +63,7 @@ Gerade
 - $v\neq 0 \Rightarrow \mathbb{K}v$ heißt Gerade. $\mathbb{K}v$ in jedem Fall UVR
 Linearkombinationen
 - auf jeden Fall **endlich**
-- Eine **Linearkombination** von Vektoren $v_1, ..., v_n /in V$ ist ein Vektor der Form $$\sum_{k=1}^n\lambda_kv_k:=\lambda_1v_1+\lambda_2v_2+...+\lambda_nv_n \hspace{2em} \text{mit} \hspace{2em} \lambda_1,...,\lambda_n \in \mathbb{K}  $$
+- Eine **Linearkombination** von Vektoren $v_1, ..., v_n \in V$ ist ein Vektor der Form $$\sum_{k=1}^n\lambda_kv_k:=\lambda_1v_1+\lambda_2v_2+...+\lambda_nv_n \hspace{2em} \text{mit} \hspace{2em} \lambda_1,...,\lambda_n \in \mathbb{K}  $$
 - Für eine Teilmenge $M\subseteq V$ definiert man den **Spann** oder die **lineare Hülle** von $M$ als $$ \mathrm{span}_\mathbb{K}(M)=\{ \sum_{k=1}^n\lambda_kv_k|n\in \mathbb{N}, v_1,...,v_n \in M, \lambda_1, ..., \lambda_n\in\mathbb{K}  \} \text{ für $M\neq 0$ }.$$
 - $$\mathrm{span}_\mathbb{K}(\emptyset)=\{ 0\}$$
 - Lemma 3.2.3. Folgende Aussagen sind Äquivalent. Sei $V$ ein $\mathbb{K}$ Vektorraum. Betrachtet wird $M\subseteq V$. 
