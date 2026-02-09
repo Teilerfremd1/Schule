@@ -127,4 +127,31 @@ Kombination von Quarks
 | $\pi^0$ ($u, \overline{u}$), ($d, \overline{d}$) | 0      | 0,135        | $\approx 10^{-16}$ |
 Farbvektoren: S. 116
 **Erhaltungssätze**
-- Ladung Q, Baryonenzahl B, Leptonenzahl L, Farbladung C, 
+- Ladung $Q$, Baryonenzahl $B$, Leptonenzahl $L$, Farbladung $C$, 
+
+# Großforschungseinrichtungen
+- DESY (Hamburg, 1959)
+- FAIR (Darmstadt, in Entstehung)
+- CERN (Genf, 1954)
+Grundlegende Frage nach **gesellschaftlichem Nutzen**. Dabei verschiedene Aspekte:
+- Medizinische Perspektive
+- Soziale (Zusammenarbeit)
+- Umwelt (ein Zentrum vs. viele: energiesparend)
+- Wissenschaftliche 
+- Wirtschaftliche
+- Philosophisch-ethische
+
+|                            | Unternehmen             | Grundlagenforschung            |
+| -------------------------- | ----------------------- | ------------------------------ |
+| Ziele                      | Gewinnmaximierung       | Erkenntnisgewinnung            |
+| Planungszeiträume          | kurz- bis mittelfristig | langfristig / nicht planbar    |
+| Freigabe von Informationen | restriktiv (Patente)    | Erkenntnisse sind Allgemeingut |
+| Arbeitsplatz               | relativ sicher          | meist befristet, 2-J           |
+Aufbau und Funktionen des Wissenschaftlichen Rates in DE
+- Beratungsgremium
+- Erarbeitung von Empfehlungen
+- Beratung der Bundesregierung und Landesregierungen in allen Fragen der Wissenschaft / Hochschule
+Karlsruher Institut für Technologie (KIT): 
+- TU des Landes BW
+- Platz 1 im Nature Index in physikalischen Wissenschaften, Umwelt- und Erdwissenschaften und Chemie 2025
+- Science diplomacy beschreibt die Zusammenarbeit der Wissenschaften über Grenzen hinweg. Finde die Aussage gut. 
