@@ -7,9 +7,17 @@
 - Verantwortlich: Nina, Jonathan und Stefanos
 - Bühnenbeleuchtung und Funkmikros
 
+## 2026-02-04 Infoveranstaltung für Neue Fünftklässler
+- Verantwortlich: Yannik
+- Aula + Mensa, Leinwand, etc.
+
 ## 2026-02-12 Sportgala
 - Verantwortlich ???
 - Großes Aufgebot vermutlich
+
+## 2026-02-13 Faschingsfeier der Fünften Klassen
+- Verantwortlich: Nico
+- Licht, Ton, ...
 
 ## 2026-02-25 Spectaculum
 - Verantwortlich: Nico, auch Jonathan und Isabel

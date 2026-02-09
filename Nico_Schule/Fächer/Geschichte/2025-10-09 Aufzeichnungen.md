@@ -112,3 +112,25 @@ https://de.wikipedia.org/wiki/George_W._Bush
 
 # 2026-01-08 
 https://de.wikipedia.org/wiki/Armenien für nächste Woche
+
+# 2026-01-29
+## Russische Außenpolitik der 1990er
+
+| Ausgangslage                          | 1994                                                | 1997                                                                      |
+| ------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------- |
+| Öl- und Gasreserven                   | Budapester Memorandum                               | NATO-Russlnad-Grundakte                                                   |
+| Atomwaffenarsenal                     | Ukraine, Belarus und Kasachstan geben Atomwaffen ab | NATO: Keine Atomwaffen in Osteuropa                                       |
+| völkerrechtlichl. Nachfolge der SU    | Im Gegenzug: Sicherheitsgarantien                   | Zusammenarbeit + Wirtschaftshilfen                                        |
+| permanenter Sitz im UN-Sicherheitsrat |                                                     | Russland: Kein Veto-Recht bei NATO-Eintritt ehem. Warschauer Pakt-Staaten |
+"Nochmal zurück zum Song vom Anfang: 'Jetzt ists passiert, die Bombe platzte, Er hat am Knopf gedrückt, der Mann mit der Glatze.' - das bin nicht ich!" 
+
+## Unter Putin
+### Innenpolitik
+- Seit 2000: Präsident
+- Umbau in autoritären Staat
+- Ziele: Ruhe, Ordnung, Stabilität, Wachstum, Kampf gegen Separatisten
+### Außenpolitik
+- Zunächst wirtschaftliche Kooperation mit Westen
+- Distanzierung von NATO, Tschetschenien Krieg
+- Angriff auf Krim 2014; Angriff Ukraine 2022
+- Hybride Kriegsführung

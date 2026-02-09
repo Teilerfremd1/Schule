@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fächer/Ethik/13.1 Aufzeichnungen Ethik.md",
+                "file": "Lehrer/2026-02-03 1vkm1 Bachl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.1 Aufzeichnungen Ethik"
-            }
-          },
-          {
-            "id": "a0ff91b6fc38b338",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "title": "2026-02-03 1vkm1 Bachl"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,35 +169,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "a0ff91b6fc38b338",
+  "active": "c740f0a5b16fac65",
   "lastOpenFiles": [
-    "Physik Merkzettel.md",
-    "Physik EVA 3.md",
+    "Fächer/Deutsch/13.1 Aufzeichnungen Deutsch.md",
     "Lehrer/2026-02-03 1vkm1 Bachl.md",
+    "Lehrer/Repetitium Q13.md",
+    "Lerngruppen Mathematik.md",
+    "Lernplan Physik und Mathe.md",
+    "Merkzettel LA1.md",
+    "Physik EVA 3.md",
+    "Frühstudium Eingangsveranstaltung.md",
+    "Licht und Ton/Abi-Entlassung 2026-02-02 Notes.md",
+    "Schülerzeitung Website Daten.md",
+    "Fächer/PuG/13.1 Aufzeichnungen.md",
+    "Fächer/PuG/Friedensplan Gaza (Stand 2025-09-29).md",
+    "Fächer/PuG/Protokoll 2025-12-05.md",
+    "Lehrer/2026-01-20 2M4 Zwirlein.md",
+    "Fächer/Ethik/13.1 Aufzeichnungen Ethik.md",
+    "Fächer/Geschichte/2025-10-09 Aufzeichnungen.md",
+    "Licht und Ton/LiTo Events 01.01.2026 - 31.07.2026.md",
+    "Fächer/Musik/13.1 Aufzeichnungen 2025-10-01 und 08.md",
+    "Fächer/Musik/13.1 akL.md",
+    "Physik Merkzettel.md",
     "Fächer/Ethik/Show Protokoll zum 15.01.2026.md",
     "Fächer/Ethik/Nico Protokoll über 15.01.2026.md",
     "2026-01-19 Qlassic Rock Band.md",
-    "Lehrer/2026-01-20 2M4 Zwirlein.md",
-    "Fächer/PuG/13.1 Aufzeichnungen.md",
-    "Fächer/PuG/Protokoll 2025-12-05.md",
-    "Fächer/Ethik/13.1 Aufzeichnungen Ethik.md",
     "Fächer/Ethik/Protokoll über 15.01.2026.md",
     "2025-10-02 Berufsorientierung.md",
     "Fächer/Englisch/Englisch mdl SA Prep.md",
-    "Fächer/Englisch/Englisch eigenverantwortlich.md",
-    "Lehrer/Klassenmanagement.md",
-    "Abi-Band.md",
-    "Frühstudium Eingangsveranstaltung.md",
-    "Lerngruppen Mathematik.md",
-    "Lernplan Physik und Mathe.md",
-    "Mathe Hausi auf 15.01.2026.md",
-    "Merkzettel LA1.md",
-    "Lehrer/Unterricht Checkliste.md",
-    "Lehrer/Unterrichtsbesuch bei Frau Dotzer.md",
-    "Fächer/Englisch/Fahrplan.md",
-    "Lehrer/Unterrichtsbesuch bei Herr Förster.md",
     "Lehrer",
-    "Fächer/PuG/Friedensplan Gaza (Stand 2025-09-29).md",
     "Licht und Ton"
   ]
 }

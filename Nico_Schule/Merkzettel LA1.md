@@ -115,4 +115,8 @@ definiert sind.
 - $V$ VR über $\mathbb{K}$
 	- 1. $\mathbb{K}$-lin. Abb. bilden mit Verkettung und punktw. Addition den unitalen **Endomorphismenring** $(\mathrm{End}_\mathbb{K}, +, \circ)$. 
 	- Einheitengruppe: Menge aller Elemente, die invertierbar sind. Man schreibt für eine Einheitengruppe: $M^\times$. Es gilt: $\mathrm{End}_\mathbb{K}(V)^\times = \mathrm{Aut}_\mathbb{K}(V)$
-	- 
+
+
+
+---
+grün unterstrichen: wichtig
