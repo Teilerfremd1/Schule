@@ -58,6 +58,7 @@ $$C\cdot D= \begin{pmatrix}
 \end{pmatrix} $$
 **Pause**
 
+
 ---
 
 ## Gruppenarbeit (25 Minuten, Aktivierung, Leistungseinforderung)
@@ -99,6 +100,7 @@ MathemaTrick: https://www.youtube.com/watch?v=uIykRXQhQtE
 - Zahlenbeispiel so gewählt, dass ohne TR. Fokus: Algorithmus kennenlernen, "blind" können.
 - ggf. eine Aufgabe: $A \cdot B = C$, bestimme $B$, sodass die Gleichung erfüllt. Bzw. ein/zwei Einträge in $B$ fehlen. (ÜL: LGLS)
 
+
 ## Für schnelle
 ### Aufgabe 1
 Bestimmen Sie die Matrix $A$ so, dass für $B=\begin{pmatrix} 1 & b \\  b & 1 \end{pmatrix}$, $b\in \mathbb{R}\textbackslash \{0\}$ gilt: $AB=A+B$
@@ -115,11 +117,15 @@ Egal wie oft man die Abbildung anwendet, das Bild ändert sich nicht. Es gilt al
 Das gilt tatsächlich für alle Matrizen (nachrechnen!)
 
 # 2026-02-10
+## Einschub letzte Stunde (genau 10 Minuten)
+
 Fokus: Einbringung auch von K2-K4
+Gruppen 1-3 besprechen; Gruppe 4 Aufgabe 2a) nochmals frontal erklären
+
 
 ## Hausaufgabe (5 Minuten)
 - Klärung von Fragen ggf.
-## Einstieg (10 Minuten)
+## Einstieg (10 Minuten) - Weglassen
 Gegeben ist das Gleichungssystem:
 $$ \begin{cases} 
 1x_1+2x_2+3x_3 = 17 \\
