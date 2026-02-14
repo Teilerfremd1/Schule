@@ -58,6 +58,7 @@ $$C\cdot D= \begin{pmatrix}
 \end{pmatrix} $$
 **Pause**
 
+
 ---
 
 ## Gruppenarbeit (25 Minuten, Aktivierung, Leistungseinforderung)
@@ -99,12 +100,32 @@ MathemaTrick: https://www.youtube.com/watch?v=uIykRXQhQtE
 - Zahlenbeispiel so gewählt, dass ohne TR. Fokus: Algorithmus kennenlernen, "blind" können.
 - ggf. eine Aufgabe: $A \cdot B = C$, bestimme $B$, sodass die Gleichung erfüllt. Bzw. ein/zwei Einträge in $B$ fehlen. (ÜL: LGLS)
 
+
+## Für schnelle
+### Aufgabe 1
+Bestimmen Sie die Matrix $A$ so, dass für $B=\begin{pmatrix} 1 & b \\  b & 1 \end{pmatrix}$, $b\in \mathbb{R}\textbackslash \{0\}$ gilt: $AB=A+B$
+## Lösung
+$A=\begin{pmatrix} 1 & \frac{1}{b} \\  \frac{1}{b} & 1 \end{pmatrix}$ 
+## Aufgabe 2
+Gegeben ist die lineare Abbildung: $\phi_+: A \mapsto \frac{1}{2}(A+A^T)$, wobei $A^T$ die transponierte Matrix von A ist. 
+- Recherchiere, was die transponierte Matrix ist.
+- Berechne für $A=\begin{pmatrix} 4 & 1 \\  -1 & 2 \end{pmatrix}$ den Funktionswert von $(\phi \circ \phi)(A)=\phi(\phi(A))$. Was fällt dir auf?  
+- Gilt das für alle Matrizen? 
+## Lösung
+$\phi(A)= \begin{pmatrix} 4 & 0 \\ 0 & 2  \end{pmatrix}=\phi(\phi(A))$
+Egal wie oft man die Abbildung anwendet, das Bild ändert sich nicht. Es gilt also $\phi \circ \phi = \phi$ 
+Das gilt tatsächlich für alle Matrizen (nachrechnen!)
+
 # 2026-02-10
+## Einschub letzte Stunde (genau 10 Minuten)
+
 Fokus: Einbringung auch von K2-K4
+Gruppen 1-3 besprechen; Gruppe 4 Aufgabe 2a) nochmals frontal erklären
+
 
 ## Hausaufgabe (5 Minuten)
 - Klärung von Fragen ggf.
-## Einstieg (10 Minuten)
+## Einstieg (10 Minuten) - Weglassen
 Gegeben ist das Gleichungssystem:
 $$ \begin{cases} 
 1x_1+2x_2+3x_3 = 17 \\
