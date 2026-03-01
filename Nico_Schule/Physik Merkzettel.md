@@ -155,3 +155,15 @@ Karlsruher Institut für Technologie (KIT):
 - TU des Landes BW
 - Platz 1 im Nature Index in physikalischen Wissenschaften, Umwelt- und Erdwissenschaften und Chemie 2025
 - Science diplomacy beschreibt die Zusammenarbeit der Wissenschaften über Grenzen hinweg. Finde die Aussage gut. 
+
+
+# Klausur:
+- 2.3
+- 2.4
+- 2.5
+- 4.1-4.4
+
+Wichtige Kolloquiumsfrage: Wien Filter (kann ich aber)
+
+Zeigerdiagramme Q12
+Mach Zehnder Koinzidenzmessung

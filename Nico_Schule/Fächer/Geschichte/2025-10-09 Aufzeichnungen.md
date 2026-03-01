@@ -134,3 +134,39 @@ https://de.wikipedia.org/wiki/Armenien für nächste Woche
 - Distanzierung von NATO, Tschetschenien Krieg
 - Angriff auf Krim 2014; Angriff Ukraine 2022
 - Hybride Kriegsführung
+
+# 2026-02-26
+- Wiederholung Vorstunde inkl, Abi-Aufgabe, HRRDN und Reichsstädte
+
+jetzt aber erstmal:
+Antike $\sqrt{n}$ modernen Denkens/moderner Ordnungsformen
+
+| Mythos            | Logos               |
+| ----------------- | ------------------- |
+| Erzählungen       | rationale Erklärung |
+| göttliche Ordnung | Wissenschaft        |
+|                   | Diskurs             |
+Soziale Krise $\Rightarrow$ Wahl Solons
+Solonische Reformen
+- Schulden werden aufgehoben
+- Beiseitigung der Verschuldungskrise
+- Männer in 4 Klassen, Frauen & Sklaven net
+- Verfassung: Timokratie ("Geldaristokratie")
+Kleisthenes (80 Jahre später)
+- Gemeinden = Demen mindern Einfluss der Adligen
+10 Phylen (Stadt, Land, Küste) führt zu Rat der 500, 50 pro Phyle. Vorsitz wechselt
+Falls jemand Alleinherrscher werden will, kann man ihn verbannen
+
+
+| Attische Demokratie                    | Bundesdeutsche Demokratie |
+| -------------------------------------- | ------------------------- |
+| direkte Demokratie in den Stadtstaaten |                           |
+| jeweils in den Poleis                  |                           |
+| nur erwachsene, freie Männer           |                           |
+| Ansätze von Gewaltenteilung            |                           |
+| Instrumente gegen Machtmissbrauch      |                           |
+| Wahlen                                 |                           |
+
+AUFGABE erstellen auf Abi-Niveau zu einem der drei Themen
+Entweder 140f, 144ff, 150f
+Mündlich zum Beispiel
