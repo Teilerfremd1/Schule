@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6223d160d55fe1ce",
+            "id": "dbb3216eb5ecc059",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fächer/Geschichte/2025-10-09 Aufzeichnungen.md",
+                "file": "Fächer/Englisch/13.2 (da wo ich da bin).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-09 Aufzeichnungen"
+              "title": "13.2 (da wo ich da bin)"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -160,30 +160,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
     }
   },
-  "active": "6223d160d55fe1ce",
+  "active": "dbb3216eb5ecc059",
   "lastOpenFiles": [
-    "Fächer/Geschichte/13.1 Klausurvorbereitung.md",
     "Fächer/PuG/13.1 Aufzeichnungen.md",
-    "Fächer/Ethik/13.1 Aufzeichnungen Ethik.md",
+    "Fächer/Englisch/13.2 (da wo ich da bin).md",
+    "Fächer/Englisch/Englisch eigenverantwortlich.md",
     "Fächer/Geschichte/2025-10-09 Aufzeichnungen.md",
     "Fächer/Deutsch/13.1 Aufzeichnungen Deutsch.md",
     "Fächer/Musik/13.1 Aufzeichnungen 2025-10-01 und 08.md",
+    "Fächer/Musik/13.1 Klausur.md",
+    "Fächer/Englisch/Englisch mdl SA Prep.md",
+    "Fächer/Ethik/13.1 Aufzeichnungen Ethik.md",
+    "Fächer/Ethik/13.2 akL.md",
+    "Fächer/Geschichte/13.1 Klausurvorbereitung.md",
+    "Fächer/Ethik/Ethik Klausurvorbereitung.md",
+    "Jugendraum.md",
     "Physik Merkzettel.md",
     "Lehrer/Unterrichtsstunden im 1vkm1 Bachl.md",
     "Lehrer/Unterricht Checkliste.md",
-    "Fächer/Englisch/13.2 (da wo ich da bin).md",
-    "Fächer/Englisch/Englisch eigenverantwortlich.md",
     "Englisch",
-    "Fächer/Musik/13.1 Klausur.md",
     "Lehrer/2026-02-03 1vkm1 Bachl.md",
     "Lehrer/Repetitium Q13.md",
     "Lerngruppen Mathematik.md",
@@ -194,10 +198,6 @@
     "Licht und Ton/Abi-Entlassung 2026-02-02 Notes.md",
     "Schülerzeitung Website Daten.md",
     "Fächer/PuG/Friedensplan Gaza (Stand 2025-09-29).md",
-    "Fächer/PuG/Protokoll 2025-12-05.md",
-    "Lehrer/2026-01-20 2M4 Zwirlein.md",
-    "Licht und Ton/LiTo Events 01.01.2026 - 31.07.2026.md",
-    "Fächer/Musik/13.1 akL.md",
     "Lehrer",
     "Licht und Ton"
   ]

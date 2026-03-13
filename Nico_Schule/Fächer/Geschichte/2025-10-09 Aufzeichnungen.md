@@ -170,3 +170,18 @@ Falls jemand Alleinherrscher werden will, kann man ihn verbannen
 AUFGABE erstellen auf Abi-Niveau zu einem der drei Themen
 Entweder 140f, 144ff, 150f
 Mündlich zum Beispiel
+
+# 2026-03-12
+Nationalstaatsbildung
+_Veränderte Identifikationsmuster
+anstelle des Standes tritt die Identifikation mit der Nation.
+Frz. Revolution als Geburtsstunde des Nationalismus.
+Dritter Stand: Bauern und Bürger
+Zweiter Stand: Adel
+Erster Stand: Klerus_
+Karikatur: "Wat heulst'n kleener Hampelmann", von Ferdinand Schröder
+
+Kleiner Auftrag bis nächste Woche:S.178f lesen
+
+
+
